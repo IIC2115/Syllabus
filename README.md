@@ -26,7 +26,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 05/08  | [Slides](Material%20de%20clases/Capítulo%200/Slides/01%20-%20Introducción.pdf) - [Ejercicio](Material%20de%20clases/Capítulo%200/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/3zdVyyz7Le36y91n9)|
-<!--| Ayudantía   | Jueves 14/03 |  [Video](https://youtu.be/MkZD-6zPsOQ)| -->
+</details>
+
+<details open>
+<summary>Capítulo 1: Fundamentos </summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 12/08  | Slides - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - Ticket |
+| Ayudantía   | Jueves 15/08 | |
+| Laboratorio | Lunes 19/08  | Enunciado|
 </details>
 
 ## Recorrecciones
