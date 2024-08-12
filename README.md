@@ -33,7 +33,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 12/08  | Slides - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - Ticket |
+| Cátedra     | Lunes 12/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides) - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - [Ticket](https://forms.gle/gR5ywyJXEeDWZoKS9) |
 | Ayudantía   | Jueves 15/08 | |
 | Laboratorio | Lunes 19/08  | Enunciado|
 </details>
