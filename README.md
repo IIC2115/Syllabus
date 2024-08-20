@@ -20,7 +20,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 ## Calendario 
 
-<details open>
+<details>
 <summary>Capítulo 0: Introducción</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -36,6 +36,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 12/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides) - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%201/Ejercicios) - [Ticket](https://forms.gle/gR5ywyJXEeDWZoKS9) |
 | Ayudantía   | Jueves 15/08 | [Ayudantia](Ayudantias/Ayudantia%201)|
 | Laboratorio | Lunes 19/08  | [Enunciado](Laboratorios/L1.pdf) |
+</details>
+
+<details open>
+<summary>Capítulo 2: Manejo y Análisis de Datos Tabulares </summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 26/08  | Slides - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - Ejercicios - Ticket |
+| Ayudantía   | Jueves 29/08 | |
+| Laboratorio | Lunes 02/09  | Enunciado |
 </details>
 
 ## Recorrecciones
