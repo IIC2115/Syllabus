@@ -44,7 +44,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 26/08  | Slides - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - Ejercicios - Ticket |
-| Ayudantía   | Jueves 29/08 | |
+| Ayudantía   | Jueves 29/08 | [Ayudantia 2](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%202)|
 | Laboratorio | Lunes 02/09  | Enunciado |
 </details>
 
