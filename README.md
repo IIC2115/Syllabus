@@ -35,7 +35,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 12/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides) - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%201/Ejercicios) - [Ticket](https://forms.gle/gR5ywyJXEeDWZoKS9) |
 | Ayudantía   | Jueves 15/08 | [Ayudantia](Ayudantias/Ayudantia%201)|
-| Laboratorio | Lunes 19/08  | [Enunciado](Laboratorios/L1.pdf) |
+| Laboratorio | Lunes 19/08  | [Enunciado](Laboratorios/L1/L1.pdf) |
 | Ayudantía   | Jueves 22/08 | [Ayudantia 2](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%202)|
 </details>
 
