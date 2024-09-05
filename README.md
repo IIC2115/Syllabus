@@ -28,7 +28,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 05/08  | [Slides](Material%20de%20clases/Capítulo%200/Slides/01%20-%20Introducción.pdf) - [Ejercicio](Material%20de%20clases/Capítulo%200/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/3zdVyyz7Le36y91n9)|
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 1: Fundamentos </summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -48,6 +48,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 29/08 | [Ayudantia 3](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%203)|
 | Laboratorio | Lunes 02/09  | [Enunciado](Laboratorios/L2/L2.pdf) |
 | Ayudantía   | Jueves 05/09 | [Ayudantia 4](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%204)|
+</details>
+
+<details open>
+<summary>Capítulo 3: Modelos Predictivos</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 15/04  | Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - Ticket |
+| Ayudantía   | Jueves 18/04 | |
+| Laboratorio | Lunes 22/04  | |
 </details>
 
 ## Recorrecciones
