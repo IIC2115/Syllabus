@@ -55,9 +55,9 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 15/04  | Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - Ticket |
-| Ayudantía   | Jueves 18/04 | |
-| Laboratorio | Lunes 22/04  | |
+| Cátedra     | Lunes 9/09  | Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - Ticket |
+| Ayudantía   | Jueves 12/09 | |
+| Laboratorio | Lunes 30/09  | |
 </details>
 
 ## Recorrecciones
