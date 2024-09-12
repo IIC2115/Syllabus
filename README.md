@@ -56,7 +56,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 9/09  | [Slides](Material%20de%20clases/Capítulo%203/Slides/01%20-%20Modelos%20predictivos.pdf) - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/hP8Ba2zBpUFLwo878) |
-| Ayudantía   | Jueves 12/09 | |
+| Ayudantía   | Jueves 12/09 | [Ayudantia 5](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%205)|
 | Laboratorio | Lunes 30/09  | |
 </details>
 
