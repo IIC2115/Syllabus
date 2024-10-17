@@ -70,7 +70,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 07/10  | [Slides](Material%20de%20clases/Capítulo%204/Slides) - [Materia](Material%20de%20clases/Capítulo%204/Notebooks/01%20-%20Análisis%20de%20datos%20geoespaciales.ipynb) - [Ejercicios](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/4zdFcUbAfasTTezG6) |
 | Ayudantía   | Jueves 10/09 | [Ayudantia 8](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%208)|
-| Laboratorio | Lunes 14/10  | []() |
+| Laboratorio | Lunes 14/10  | [Ayudantia 9](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%209) |
 </details>
 
 ## Recorrecciones
