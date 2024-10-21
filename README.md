@@ -73,6 +73,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 14/10  | [Ayudantia 9](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%209) |
 </details>
 
+<details open>
+<summary>Capítulo 5: Manejo de redes</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 21/10  | [Slides]() - [Materia](https://github.com/IIC2115/Syllabus/blob/main/Material%20de%20clases/Capi%CC%81tulo%205/01%20-%20Manejo%20de%20redes.ipynb) - [Ejercicios]() - [Ticket]() |
+| Ayudantía   | Jueves 24/09 | [Ayudantia 10]()|
+| Laboratorio | Lunes 28/10  | [Ayudantia 11]() |
+</details>
+
 ## Recorrecciones
 
 * El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
