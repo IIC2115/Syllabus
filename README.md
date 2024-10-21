@@ -78,7 +78,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 21/10  | [Slides]() - [Materia]([https://github.com/IIC2115/Syllabus/blob/main/Material%20de%20clases/Capi%CC%81tulo%205/01%20-%20Manejo%20de%20redes.ipynb](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Capítulo%205/Notebooks)) - [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Capítulo%205/Ejercicios) - Ticket |
+| Cátedra     | Lunes 21/10  | [Slides]() - [Materia](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Capítulo%205/Ejercicios) - Ticket |
 | Ayudantía   | Jueves 24/09 | Ayudantia 10|
 | Laboratorio | Lunes 28/10  | Ayudantia 11|
 </details>
