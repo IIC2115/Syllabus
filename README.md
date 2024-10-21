@@ -25,7 +25,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 05/08  | [Slides](Material%20de%20clases/Capítulo%200/Slides/01%20-%20Introducción.pdf) - [Ejercicio](Material%20de%20clases/Capítulo%200/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/3zdVyyz7Le36y91n9)|
+| Cátedra     | Lunes 05/08  | Slides - [Ejercicio](Material%20de%20clases/Capítulo%200/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/3zdVyyz7Le36y91n9)|
 </details>
 
 <details>
