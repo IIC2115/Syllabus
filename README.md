@@ -80,7 +80,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 21/10  | [Slides](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Cap%C3%ADtulo%205/Slides) - [Materia](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Capítulo%205/Ejercicios) - [Ticket](https://forms.gle/tszeWv9AYfqJbZuc9) |
 | Ayudantía   | Jueves 24/09 | [Ayudantia 10](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2010)|
-| Laboratorio | Lunes 28/10  | Ayudantia 11|
+| Laboratorio | Lunes 28/10  | [Enunciado](Laboratorios/L5/L5.pdf), [Datos](Laboratorios/L5)|
 </details>
 
 ## Recorrecciones
