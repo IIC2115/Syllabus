@@ -63,7 +63,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 03/10 | [Ayudantia 7](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%207) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4: Análisis de datos geoespaciales</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -73,7 +73,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 14/10  | [Ayudantia 9](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%209) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 5: Manejo de redes</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -84,6 +84,15 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 31/10 | [Ayudantia 11](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2011)|
 </details>
 
+<details open>
+<summary>Capítulo 6: Bases de datos relacionales y Web Scrapping</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 04/11  | [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%206/Ejercicios) - [Ticket]() |
+| Ayudantía   | Jueves 07/11 | [Ayudantia 12]()|
+| Laboratorio | Lunes 11/11  | [Enunciado]() |
+| Ayudantía   | Jueves 14/11 | [Ayudantia 13]()|
 ## Recorrecciones
 
 * El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
