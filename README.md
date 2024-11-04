@@ -89,7 +89,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 04/11  | [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%206/Ejercicios) - [Ticket]() |
+| Cátedra     | Lunes 04/11  | [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%206/Ejercicios) - [Ticket](https://forms.gle/bikPVBrSE9gy6vHu5) |
 | Ayudantía   | Jueves 07/11 | [Ayudantia 12]()|
 | Laboratorio | Lunes 11/11  | [Enunciado]() |
 | Ayudantía   | Jueves 14/11 | [Ayudantia 13]()|
