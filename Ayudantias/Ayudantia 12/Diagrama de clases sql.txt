@@ -1,0 +1,12 @@
++------------+           +------------+           +-------------+
+|  empresas  |           |  celulares |           |   reviews   |
++------------+           +------------+           +-------------+
+| id_empresa |           | id_celular |           | id_review   |
+| nombre     | 1-------N | nombre     | 1--------N| calificacion|
+| ceo        |           | precio     |           | comentario  |
+| capital    |           | id_emp     |           | id_cel      |
+| descripcion|           +------------+           +-------------+
++------------+           id_e = Foreign key        id_cel = Foreign key
+
+id_celular, id_empresa, id_review = Primary key
+
