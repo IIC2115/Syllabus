@@ -94,6 +94,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 11/11  | [Enunciado](Laboratorios/L6/L6.pdf), [Datos](Laboratorios/L6) |
 | Ayudantía   | Jueves 14/11 | [Ayudantia 13](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2013)|
 
+</details>
+
 <details open>
 <summary>Capítulo 7: Bases de datos relacionales y SQL</summary>
 
@@ -103,6 +105,10 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 21/11 | [Ayudantia 14]()|
 | Laboratorio | Lunes 25/11  | [Enunciado](), [Datos](Laboratorios/L7) |
 | Ayudantía   | Jueves 28/11 | [Ayudantia 15]()|
+
+</details>
+
+
 ## Recorrecciones
 
 * El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
