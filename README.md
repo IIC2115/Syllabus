@@ -84,7 +84,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 31/10 | [Ayudantia 11](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2011)|
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 6: Bases de datos relacionales y Web Scrapping</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -93,6 +93,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 07/11 | [Ayudantia 12](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2012)|
 | Laboratorio | Lunes 11/11  | [Enunciado](Laboratorios/L6/L6.pdf), [Datos](Laboratorios/L6) |
 | Ayudantía   | Jueves 14/11 | [Ayudantia 13](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2013)|
+
+<details open>
+<summary>Capítulo 7: Bases de datos relacionales y SQL</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 18/11  | [Slides]() -[Materia](Material%20de%20clases/Capítulo%207/Notebooks) - [Ejercicios]() - [Ticket]() |
+| Ayudantía   | Jueves 21/11 | [Ayudantia 14]()|
+| Laboratorio | Lunes 25/11  | [Enunciado](), [Datos](Laboratorios/L7) |
+| Ayudantía   | Jueves 28/11 | [Ayudantia 15]()|
 ## Recorrecciones
 
 * El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
