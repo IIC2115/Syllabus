@@ -103,8 +103,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 18/11  | [Slides]() -[Materia](Material%20de%20clases/Capítulo%207/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%207/Ejercicios) - [Ticket](https://forms.gle/UXL9fJRMLKmp1CUv9) |
 | Ayudantía   | Jueves 21/11 | [Ayudantia 14](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2014)|
-| Laboratorio | Lunes 25/11  | [Enunciado](), [Datos](Laboratorios/L7) |
-| Ayudantía   | Jueves 28/11 | [Ayudantia 15]()|
+| Laboratorio | Lunes 25/11  | [Enunciado](Laboratorios/L7), [Datos](Laboratorios/L7) |
+| Ayudantía   | Jueves 28/11 | [Ayudantia 15](https://github.com/IIC2115/Syllabus/tree/main/Ayudantias/Ayudantia%2015)|
 
 </details>
 
