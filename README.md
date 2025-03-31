@@ -29,7 +29,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 13/03 | Ayudantía |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 1: Fundamentos </summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -39,12 +39,12 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio 1 | Lunes 24/03 | [Laboratorio 1](Laboratorios/L1/L1.pdf)
 </details>
 
-<details>
+<details open>
 <summary>Capítulo 2: Manejo y Análisis de Datos Tabulares </summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 31/03  | Slides - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - Ejercicios - Ticket |
+| Cátedra     | Lunes 31/03  | Slides - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - Ejercicios - [Ticket](https://forms.gle/oNWe2Ur8TzJ4dPuH6) |
 | Ayudantía   | Jueves 03/04 | Ayudantia 3 |
 | Laboratorio | Lunes 07/04  | Enunciado |
 | Ayudantía   | Jueves 10/04 | Ayudantia 4 |
