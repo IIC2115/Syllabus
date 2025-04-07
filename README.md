@@ -36,7 +36,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 17/03  | [Slides](Material%20de%20clases/Capítulo%201/Slides/01%20-%20Fundamentos%20-%20POO%20y%20EDD.pdf) - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%201/Ejercicios) - [Ticket](https://forms.gle/Y4tawmR2ijPa9sjM6) |
 | Ayudantía   | Jueves 20/03 | [Ayudantía 1](https://github.com/IIC2115/Syllabus/tree/main/Ayudantías/Ayudantía%201) |
-| Laboratorio 1 | Lunes 24/03 | [Laboratorio 1](Laboratorios/L1/L1.pdf)
+| Laboratorio | Lunes 24/03  | [Laboratorio 1](Laboratorios/L1/L1.pdf)
+| Ayudantía   | Jueves 27/03 | [Ayudantía 2](Ayudantías/Ayudantía%202)
 </details>
 
 <details open>
@@ -45,8 +46,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 31/03  |  [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Manejo%20y%20análisis%20de%20datos%20tabulares.pdf) - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%202/Ejercicios) - [Ticket](https://forms.gle/oNWe2Ur8TzJ4dPuH6) |
-| Ayudantía   | Jueves 03/04 | Ayudantia 3 |
-| Laboratorio | Lunes 07/04  | Enunciado |
+| Ayudantía   | Jueves 03/04 | [Ayudantia 3](Ayudantías/Ayudantía%203) |
+| Laboratorio | Lunes 07/04  | [Enunciado](Laboratorios/L2/L2.pdf) |
 | Ayudantía   | Jueves 10/04 | Ayudantia 4 |
 </details>
 
