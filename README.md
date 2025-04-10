@@ -52,6 +52,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 </details>
 
 
+<details>
+<summary>Capítulo 3: Modelos Predictivos</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 14/04  | Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - Ticket |
+
+</details>
+
+
 
 ## Recorrecciones
 
