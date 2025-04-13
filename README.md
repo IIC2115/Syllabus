@@ -40,7 +40,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 27/03 | [Ayudantía 2](Ayudantías/Ayudantía%202)
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 2: Manejo y Análisis de Datos Tabulares </summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -52,7 +52,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 </details>
 
 
-<details>
+<details open>
 <summary>Capítulo 3: Modelos Predictivos</summary>
 
 | Instancia   | Fecha        | Recursos |
