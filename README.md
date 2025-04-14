@@ -57,7 +57,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 14/04  | Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - Ticket |
+| Cátedra     | Lunes 14/04  | Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - [Ticket](https://forms.gle/JA68joFz6BEWZ2PA7) |
 
 </details>
 
