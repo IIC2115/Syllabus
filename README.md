@@ -57,7 +57,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 14/04  | Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - [Ticket](https://forms.gle/JA68joFz6BEWZ2PA7) |
+| Cátedra     | Lunes 14/04  | [Slides](Material%20de%20clases/Capítulo%203/Slides/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.pdf) - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/JA68joFz6BEWZ2PA7) |
 
 </details>
 
