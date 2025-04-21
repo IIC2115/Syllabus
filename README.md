@@ -46,9 +46,9 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 31/03  |  [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Manejo%20y%20análisis%20de%20datos%20tabulares.pdf) - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%202/Ejercicios) - [Ticket](https://forms.gle/oNWe2Ur8TzJ4dPuH6) |
-| Ayudantía   | Jueves 03/04 | [Ayudantia 3](Ayudantías/Ayudantía%203) |
+| Ayudantía   | Jueves 03/04 | [Ayudantía 3](Ayudantías/Ayudantía%203) |
 | Laboratorio | Lunes 07/04  | [Enunciado](Laboratorios/L2/L2.pdf) |
-| Ayudantía   | Jueves 10/04 | Ayudantia 4 |
+| Ayudantía   | Jueves 10/04 | Ayudantía 4 |
 </details>
 
 
@@ -58,6 +58,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 14/04  | [Slides](Material%20de%20clases/Capítulo%203/Slides/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.pdf) - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/JA68joFz6BEWZ2PA7) |
+| Ayudantía   | Jueves 17/04 | Ayudantía 5 |
+| Laboratorio | Lunes 21/04  | [Enunciado](Laboratorios/L3/L3.pdf) |
 
 </details>
 
