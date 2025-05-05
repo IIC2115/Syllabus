@@ -53,7 +53,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 
 <details>
-<summary>Capítulo 3: Modelos Predictivos</summary>
+<summary>Capítulo 4: Modelos Predictivos</summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
