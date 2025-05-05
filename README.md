@@ -53,7 +53,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 
 <details>
-<summary>Capítulo 4: Modelos Predictivos</summary>
+<summary>Capítulo 3: Modelos Predictivos</summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
@@ -64,7 +64,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 </details>
 
 <details open>
-<summary>Capítulo 3: Análisis de datos geoespaciales</summary>
+<summary>Capítulo 4: Análisis de datos geoespaciales</summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
