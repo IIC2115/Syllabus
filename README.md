@@ -52,7 +52,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 </details>
 
 
-<details open>
+<details>
 <summary>Capítulo 3: Modelos Predictivos</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -63,6 +63,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 </details>
 
+<details open>
+<summary>Capítulo 3: Análisis de datos geoespaciales</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 05/05  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Analisis%20de%20datos%20geoespaciales.pdf) - [Materia](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/PjJMaQn1bLLNK2vB8) |
+| Ayudantía   | Jueves 08/05 | Ayudantía 6 |
+| Laboratorio | Lunes 12/05  | Enunciado |
+
+</details>
 
 
 ## Recorrecciones
