@@ -48,7 +48,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 31/03  |  [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Manejo%20y%20análisis%20de%20datos%20tabulares.pdf) - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%202/Ejercicios) - [Ticket](https://forms.gle/oNWe2Ur8TzJ4dPuH6) |
 | Ayudantía   | Jueves 03/04 | [Ayudantía 3](Ayudantías/Ayudantía%203) |
 | Laboratorio | Lunes 07/04  | [Enunciado](Laboratorios/L2/L2.pdf) |
-| Ayudantía   | Jueves 10/04 | Ayudantía 4 |
+| Ayudantía   | Jueves 10/04 | [Ayudantía 4](Ayudantías/Ayudantía%204) |
 </details>
 
 
@@ -58,7 +58,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 14/04  | [Slides](Material%20de%20clases/Capítulo%203/Slides/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.pdf) - [Materia](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/JA68joFz6BEWZ2PA7) |
-| Ayudantía   | Jueves 17/04 | Ayudantía 5 |
+| Ayudantía   | Jueves 17/04 | [Ayudantía 5](Ayudantías/Ayudantía%205) |
 | Laboratorio | Lunes 21/04  | [Enunciado](Laboratorios/L3/L3.pdf) |
 
 </details>
@@ -69,8 +69,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 05/05  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Analisis%20de%20datos%20geoespaciales.pdf) - [Materia](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/PjJMaQn1bLLNK2vB8) |
-| Ayudantía   | Jueves 08/05 | Ayudantía 6 |
-| Laboratorio | Lunes 12/05  | Enunciado |
+| Ayudantía   | Jueves 08/05 | [Ayudantía 6](Ayudantías/Ayudantía%206) |
+| Laboratorio | Lunes 12/05  | [Enunciado](Laboratorios/L4/L4.pdf) |
 
 </details>
 
