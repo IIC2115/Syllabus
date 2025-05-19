@@ -63,7 +63,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4: Análisis de datos geoespaciales</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -72,6 +72,15 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 08/05 | [Ayudantía 7](Ayudantías/Ayudantía%207) |
 | Laboratorio | Lunes 12/05  | [Enunciado](Laboratorios/L4/L4.pdf) |
 | Ayudantía   | Jueves 15/05 | [Ayudantía 8](Ayudantías/Ayudantía%208) |
+
+</details>
+
+<details open>
+<summary>Capítulo 5: Manejo de redes</summary>
+
+| Instancia | Fecha      | Recursos |
+|:---------:|:----------:|:--------:|
+| Cátedra   | Lunes 19/05 | [Slides]() - [Materia](Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%205/Ejercicios) - [Ticket](https://forms.gle/qmrTiqjM3QV59utL7) |
 
 </details>
 
