@@ -69,8 +69,9 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 05/05  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Analisis%20de%20datos%20geoespaciales.pdf) - [Materia](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/PjJMaQn1bLLNK2vB8) |
-| Ayudantía   | Jueves 08/05 | [Ayudantía 6](Ayudantías/Ayudantía%206) |
+| Ayudantía   | Jueves 08/05 | [Ayudantía 7](Ayudantías/Ayudantía%207) |
 | Laboratorio | Lunes 12/05  | [Enunciado](Laboratorios/L4/L4.pdf) |
+| Ayudantía   | Jueves 15/05 | [Ayudantía 8](Ayudantías/Ayudantía%208) |
 
 </details>
 
