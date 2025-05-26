@@ -81,6 +81,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia | Fecha      | Recursos |
 |:---------:|:----------:|:--------:|
 | Cátedra   | Lunes 19/05 | [Slides]() - [Materia](Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%205/Ejercicios) - [Ticket](https://forms.gle/qmrTiqjM3QV59utL7) |
+| Ayudantía | Jueves 22/05 | [Ayudantía 9](Ayudantías/Ayudantía%209) |
+| Laboratorio | Lunes 26/05 | [Enunciado](Laboratorios/L5/L5.pdf), [Data](Laboratorios/L5/Data_L5.zip) |
 
 </details>
 
