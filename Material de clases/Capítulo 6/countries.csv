@@ -1,0 +1,215 @@
+country,native_name,iso2,iso3,population,area,capital,capital_lat,capital_lng,region,continent
+Afghanistan,افغانستان,AF,AFG,26023100.0,652230.0,Kabul,34.526011,69.177684,Southern and Central Asia,Asia
+Albania,Shqipëria,AL,ALB,2895947.0,28748.0,Tirana,41.326873,19.818791,Southern Europe,Europe
+Algeria,الجزائر,DZ,DZA,38700000.0,2381741.0,Algiers,36.775361,3.060188,Northern Africa,Africa
+American Samoa,American Samoa,AS,ASM,55519.0,199.0,Pago Pago,-14.275479,-170.70483,Polynesia,Oceania
+Angola,Angola,AO,AGO,24383301.0,1246700.0,Luanda,-8.82727,13.243951,Central Africa,Africa
+Anguilla,Anguilla,AI,AIA,13452.0,91.0,The Valley,41.559572,-98.980548,Caribbean,North America
+Antigua and Barbuda,Antigua and Barbuda,AG,ATG,86295.0,442.0,Saint John's,47.561701,-52.715149,Caribbean,North America
+Argentina,Argentina,AR,ARG,42669500.0,2780400.0,Buenos Aires,-34.607568,-58.437089,South America,South America
+Armenia,Հայաստան,AM,ARM,3009800.0,29743.0,Yerevan,40.177612,44.512585,Middle East,Asia
+Aruba,Aruba,AW,ABW,101484.0,180.0,Oranjestad,12.526874,-70.035684,Caribbean,North America
+Australia,Australia,AU,AUS,,7692024.0,Canberra,-35.297591,149.101268,Australia and New Zealand,Oceania
+Austria,Österreich,AT,AUT,8527230.0,83871.0,Vienna,48.208354,16.372504,Western Europe,Europe
+Azerbaijan,Azərbaycan,AZ,AZE,9552500.0,86600.0,Baku,40.375443,49.832675,Middle East,Asia
+Bahrain,‏البحرين,BH,BHR,1316500.0,765.0,Manama,26.223504,50.582244,Middle East,Asia
+Bangladesh,বাংলাদেশ,BD,BGD,157486000.0,147570.0,Dhaka,23.759357,90.378814,Southern and Central Asia,Asia
+Belarus,Белару́сь,BY,BLR,9475100.0,207600.0,Minsk,53.902334,27.561879,Eastern Europe,Europe
+Belgium,België,BE,BEL,11225469.0,30528.0,Brussels,50.846557,4.351697,Western Europe,Europe
+Belize,Belize,BZ,BLZ,349728.0,22966.0,Belmopan,17.250199,-88.770018,Central America,North America
+Benin,Bénin,BJ,BEN,9988068.0,112622.0,Porto-Novo,6.499072,2.625336,Western Africa,Africa
+Bermuda,Bermuda,BM,BMU,64237.0,54.0,Hamilton,43.25608,-79.872858,North America,North America
+Bhutan,ʼbrug-yul,BT,BTN,755030.0,38394.0,Thimphu,27.472762,89.629548,Southern and Central Asia,Asia
+Bolivia,Bolivia,BO,BOL,10027254.0,1098581.0,Sucre,-19.047725,-65.259431,South America,South America
+Bosnia and Herzegovina,Bosna i Hercegovina,BA,BIH,3791622.0,51209.0,Sarajevo,43.851977,18.386687,Southern Europe,Europe
+Botswana,Botswana,BW,BWA,2024904.0,582000.0,Gaborone,-24.658136,25.908847,Southern Africa,Africa
+Brazil,Brasil,BR,BRA,203586000.0,8515767.0,Brasília,-10.333333,-53.2,South America,South America
+Brunei,Negara Brunei Darussalam,BN,BRN,393372.0,5765.0,Bandar Seri Begawan,4.889545,114.941757,Southeast Asia,Asia
+Bulgaria,България,BG,BGR,7245677.0,110879.0,Sofia,-15.25384,48.256216,Eastern Europe,Europe
+Burkina Faso,Burkina Faso,BF,BFA,17322796.0,272967.0,Ouagadougou,12.368187,-1.527094,Western Africa,Africa
+Burundi,Burundi,BI,BDI,9530434.0,27834.0,Bujumbura,-3.363812,29.367503,Eastern Africa,Africa
+Cambodia,Kâmpŭchéa,KH,KHM,15184116.0,181035.0,Phnom Penh,11.568271,104.922443,Southeast Asia,Asia
+Cameroon,Cameroon,CM,CMR,20386799.0,475442.0,Yaoundé,3.868987,11.521334,Central Africa,Africa
+Canada,Canada,CA,CAN,35540419.0,9984670.0,Ottawa,45.421106,-75.690308,North America,North America
+Cape Verde,Cabo Verde,CV,CPV,518467.0,4033.0,Praia,14.916017,-23.509613,Western Africa,Africa
+Cayman Islands,Cayman Islands,KY,CYM,55456.0,264.0,George Town,5.414568,100.329804,Caribbean,North America
+Central African Republic,Ködörösêse tî Bêafrîka,CF,CAF,4709000.0,622984.0,Bangui,4.390715,18.550913,Central Africa,Africa
+Chad,Tchad,TD,TCD,13211000.0,1284000.0,N'Djamena,12.119154,15.050276,Central Africa,Africa
+Chile,Chile,CL,CHL,17819054.0,756102.0,Santiago,9.869479,-83.798075,South America,South America
+China,中国,CN,CHN,1367110000.0,9640011.0,Beijing,39.906217,116.391276,Eastern Asia,Asia
+Christmas Island,Christmas Island,CX,CXR,2072.0,135.0,Flying Fish Cove,-10.426665,105.668672,Australia and New Zealand,Oceania
+Colombia,Colombia,CO,COL,47907800.0,1141748.0,Bogotá,4.59808,-74.076044,South America,South America
+Comoros,Komori,KM,COM,763952.0,1862.0,Moroni,-11.693126,43.254304,Eastern Africa,Africa
+Cook Islands,Cook Islands,CK,COK,14974.0,236.0,Avarua,-21.207474,-159.770814,Polynesia,Oceania
+Costa Rica,Costa Rica,CR,CRI,4713168.0,51100.0,San José,9.932543,-84.079578,Central America,North America
+Croatia,Hrvatska,HR,HRV,4267558.0,56594.0,Zagreb,45.813177,15.977048,Southern Europe,Europe
+Cuba,Cuba,CU,CUB,11210064.0,109884.0,Havana,23.135305,-82.358963,Caribbean,North America
+Cyprus,Κύπρος,CY,CYP,858000.0,9251.0,Nicosia,35.17393,33.364726,Middle East,Asia
+Czech Republic,Česká republika,CZ,CZE,10521600.0,78865.0,Prague,50.087465,14.421254,Eastern Europe,Europe
+Democratic Republic of the Congo,République démocratique du Congo,CD,COD,69360000.0,2344858.0,Kinshasa,-4.321706,15.312597,,
+Denmark,Danmark,DK,DNK,5655750.0,43094.0,Copenhagen,55.686724,12.570072,Nordic Countries,Europe
+Djibouti,Djibouti,DJ,DJI,886000.0,23200.0,Djibouti,11.814597,42.845306,Eastern Africa,Africa
+Dominica,Dominica,DM,DMA,71293.0,751.0,Roseau,48.771037,-95.769788,Caribbean,North America
+Dominican Republic,República Dominicana,DO,DOM,10378267.0,48671.0,Santo Domingo,18.480197,-69.942111,Caribbean,North America
+East Timor,Timor-Leste,TL,TLS,1172390.0,14874.0,Dili,28.651718,77.221939,Southeast Asia,Asia
+Ecuador,Ecuador,EC,ECU,15888900.0,276841.0,Quito,-0.220164,-78.512327,South America,South America
+Egypt,مصر‎,EG,EGY,87668100.0,1002450.0,Cairo,30.048819,31.243666,Northern Africa,Africa
+El Salvador,El Salvador,SV,SLV,6401240.0,21041.0,San Salvador,13.698994,-89.191425,Central America,North America
+Equatorial Guinea,Guinea Ecuatorial,GQ,GNQ,1430000.0,28051.0,Malabo,3.752828,8.780061,Central Africa,Africa
+Estonia,Eesti,EE,EST,1315819.0,45227.0,Tallinn,59.437216,24.745369,Baltic Countries,Europe
+Ethiopia,ኢትዮጵያ,ET,ETH,87952991.0,1104300.0,Addis Ababa,9.010793,38.761252,Eastern Africa,Africa
+Falkland Islands,Falkland Islands,FK,FLK,3000.0,12173.0,Stanley,-51.695058,-57.849169,South America,South America
+Fiji,Fiji,FJ,FJI,859178.0,18272.0,Suva,-18.141588,178.442166,Melanesia,Oceania
+Finland,Suomi,FI,FIN,5470437.0,338424.0,Helsinki,60.16741,24.942577,Nordic Countries,Europe
+France,France,FR,FRA,66078000.0,640679.0,Paris,48.856697,2.351462,Western Europe,Europe
+French Guiana,Guyane française,GF,GUF,237549.0,,Cayenne,4.937114,-52.325831,South America,South America
+French Polynesia,Polynésie française,PF,PYF,268270.0,4167.0,Papeetē,-17.537384,-149.565996,Polynesia,Oceania
+French Southern and Antarctic Lands,Territoire des Terres australes et antarctiques françaises,TF,ATF,140.0,7747.0,Port-aux-Français,-49.353677,70.243567,Antarctica,Antarctica
+Gabon,Gabon,GA,GAB,,267668.0,Libreville,0.390002,9.454001,Central Africa,Africa
+Georgia,საქართველო,GE,GEO,4490500.0,69700.0,Tbilisi,41.693459,44.80145,Middle East,Asia
+Germany,Deutschland,DE,DEU,80783000.0,357114.0,Berlin,52.517036,13.38886,Western Europe,Europe
+Ghana,Ghana,GH,GHA,27043093.0,238533.0,Accra,5.560014,-0.205744,Western Africa,Africa
+Gibraltar,Gibraltar,GI,GIB,30001.0,6.0,Gibraltar,36.140807,-5.35413,,
+Greece,Ελλάδα,GR,GRC,,131990.0,Athens,37.983941,23.728305,Southern Europe,Europe
+Greenland,Kalaallit Nunaat,GL,GRL,56295.0,2166086.0,Nuuk,64.175029,-51.735539,North America,North America
+Grenada,Grenada,GD,GRD,103328.0,344.0,St. George's,48.658138,6.928099,Caribbean,North America
+Guam,Guam,GU,GUM,159358.0,549.0,Hagåtña,13.472745,144.752018,Micronesia,Oceania
+Guatemala,Guatemala,GT,GTM,15806675.0,108889.0,Guatemala City,14.622233,-90.518519,Central America,North America
+Guernsey,Guernsey,GG,GGY,63085.0,78.0,St. Peter Port,49.456814,-2.538998,,
+Guinea,Guinée,GN,GIN,10628972.0,245857.0,Conakry,9.51706,-13.699843,Western Africa,Africa
+Guinea-Bissau,Guiné-Bissau,GW,GNB,1746000.0,36125.0,Bissau,11.861324,-15.583055,Western Africa,Africa
+Guyana,Guyana,GY,GUY,784894.0,214969.0,Georgetown,6.802577,-58.162861,South America,South America
+Haiti,Haïti,HT,HTI,10745665.0,27750.0,Port-au-Prince,18.547327,-72.339593,Caribbean,North America
+Honduras,Honduras,HN,HND,8725111.0,112492.0,Tegucigalpa,14.105686,-87.204676,Central America,North America
+Hong Kong,香港,HK,HKG,7234800.0,1104.0,City of Victoria,-36.59861,144.678005,Eastern Asia,Asia
+Hungary,Magyarország,HU,HUN,9879000.0,93028.0,Budapest,47.498382,19.040471,Eastern Europe,Europe
+Iceland,Ísland,IS,ISL,328170.0,103000.0,Reykjavik,64.145981,-21.942237,Nordic Countries,Europe
+India,भारत,IN,IND,1263930000.0,3287590.0,New Delhi,28.614179,77.202266,Southern and Central Asia,Asia
+Indonesia,Indonesia,ID,IDN,252164800.0,1904569.0,Jakarta,-6.175394,106.827183,Southeast Asia,Asia
+Iran,Irān,IR,IRN,77966400.0,1648195.0,Tehran,35.700618,51.401378,Southern and Central Asia,Asia
+Iraq,العراق,IQ,IRQ,36004552.0,438317.0,Baghdad,33.302431,44.378799,Middle East,Asia
+Ireland,Éire,IE,IRL,6378000.0,70273.0,Dublin,53.349764,-6.260273,British Isles,Europe
+Isle of Man,Isle of Man,IM,IMN,84497.0,572.0,Douglas,39.762842,-88.217052,,
+Israel,יִשְׂרָאֵל,IL,ISR,8268400.0,20770.0,Jerusalem,31.778345,35.225079,Middle East,Asia
+Italy,Italia,IT,ITA,60769102.0,301336.0,Rome,41.89332,12.482932,Southern Europe,Europe
+Ivory Coast,Côte d'Ivoire,CI,CIV,23821000.0,322463.0,Yamoussoukro,6.809107,-5.273263,,
+Jamaica,Jamaica,JM,JAM,2717991.0,10991.0,Kingston,17.971215,-76.792813,Caribbean,North America
+Japan,日本,JP,JPN,127080000.0,377930.0,Tokyo,35.682839,139.759455,Eastern Asia,Asia
+Jersey,Jersey,JE,JEY,99000.0,116.0,Saint Helier,47.384387,4.683325,,
+Jordan,الأردن,JO,JOR,6666960.0,89342.0,Amman,31.951569,35.923962,Middle East,Asia
+Kazakhstan,Қазақстан,KZ,KAZ,17377800.0,2724900.0,Astana,51.12822,71.430668,Southern and Central Asia,Asia
+Kenya,Kenya,KE,KEN,41800000.0,580367.0,Nairobi,-1.283253,36.817245,Eastern Africa,Africa
+Kiribati,Kiribati,KI,KIR,106461.0,811.0,South Tarawa,1.349078,173.038651,Micronesia,Oceania
+Kuwait,الكويت,KW,KWT,3268431.0,17818.0,Kuwait City,29.379709,47.973563,Middle East,Asia
+Kyrgyzstan,Кыргызстан,KG,KGZ,5776570.0,199951.0,Bishkek,42.876562,74.607008,Southern and Central Asia,Asia
+Laos,ສປປລາວ,LA,LAO,6693300.0,236800.0,Vientiane,17.964099,102.613371,Southeast Asia,Asia
+Latvia,Latvija,LV,LVA,1991800.0,64559.0,Riga,56.949398,24.105185,Baltic Countries,Europe
+Lebanon,لبنان,LB,LBN,4104000.0,10452.0,Beirut,33.89592,35.47843,Middle East,Asia
+Lesotho,Lesotho,LS,LSO,2098000.0,30355.0,Maseru,-29.310054,27.478222,Southern Africa,Africa
+Liberia,Liberia,LR,LBR,4397000.0,111369.0,Monrovia,6.328034,-10.797788,Western Africa,Africa
+Libya,‏ليبيا,LY,LBY,6253000.0,1759540.0,Tripoli,32.896672,13.177792,Northern Africa,Africa
+Liechtenstein,Liechtenstein,LI,LIE,37132.0,160.0,Vaduz,47.139286,9.522796,Western Europe,Europe
+Lithuania,Lietuva,LT,LTU,2927310.0,65300.0,Vilnius,54.687046,25.282911,Baltic Countries,Europe
+Luxembourg,Luxembourg,LU,LUX,549700.0,2586.0,Luxembourg,49.815868,6.129675,Western Europe,Europe
+Macau,澳門,MO,MAC,631000.0,30.0,,,,Eastern Asia,Asia
+Macedonia,Македонија,MK,MKD,2058539.0,25713.0,Skopje,41.996092,21.43165,Southern Europe,Europe
+Madagascar,Madagasikara,MG,MDG,21842167.0,587041.0,Antananarivo,-18.910012,47.525581,Eastern Africa,Africa
+Malawi,Malawi,MW,MWI,15805239.0,118484.0,Lilongwe,-13.987511,33.768144,Eastern Africa,Africa
+Malaysia,Malaysia,MY,MYS,30430500.0,330803.0,Kuala Lumpur,3.151696,101.694237,Southeast Asia,Asia
+Maldives,Maldives,MV,MDV,341256.0,300.0,Malé,16.370036,-2.290024,Southern and Central Asia,Asia
+Mali,Mali,ML,MLI,15768000.0,1240192.0,Bamako,12.605033,-7.986514,Western Africa,Africa
+Malta,Malta,MT,MLT,416055.0,316.0,Valletta,35.898982,14.513676,Southern Europe,Europe
+Marshall Islands,M̧ajeļ,MH,MHL,56086.0,181.0,Majuro,7.090992,171.381635,Micronesia,Oceania
+Mauritania,موريتانيا,MR,MRT,3545620.0,1030700.0,Nouakchott,18.079238,-15.978007,Western Africa,Africa
+Mauritius,Maurice,MU,MUS,1261208.0,2040.0,Port Louis,-20.163728,57.504533,Eastern Africa,Africa
+Mayotte,Mayotte,YT,MYT,212645.0,,Mamoudzou,-12.780586,45.227991,Eastern Africa,Africa
+Mexico,México,MX,MEX,119713203.0,1964375.0,Mexico City,19.43263,-99.133178,Central America,North America
+Moldova,Moldova,MD,MDA,3557600.0,33846.0,Chișinău,47.024471,28.832253,Eastern Europe,Europe
+Monaco,Monaco,MC,MCO,36950.0,2.02,Monaco,43.732349,7.427683,Western Europe,Europe
+Mongolia,Монгол улс,MN,MNG,2987733.0,1564110.0,Ulan Bator,47.918468,106.917702,Eastern Asia,Asia
+Montserrat,Montserrat,MS,MSR,4922.0,102.0,Plymouth,50.371266,-4.142566,Caribbean,Europe
+Morocco,المغرب,MA,MAR,33465000.0,446550.0,Rabat,34.022405,-6.834543,Northern Africa,North America
+Mozambique,Moçambique,MZ,MOZ,25041922.0,801590.0,Maputo,-25.966213,32.56745,Eastern Africa,Africa
+Namibia,Namibia,,NAM,2113077.0,825615.0,Windhoek,-22.574392,17.079069,Southern Africa,Africa
+Nepal,नेपाल,NP,NPL,27646053.0,147181.0,Kathmandu,27.708317,85.320582,Southern and Central Asia,Asia
+Netherlands,Nederland,NL,NLD,16881000.0,41850.0,Amsterdam,52.37276,4.893604,Western Europe,Europe
+New Zealand,New Zealand,NZ,NZL,4547900.0,270467.0,Wellington,-41.288795,174.777211,Australia and New Zealand,Oceania
+Nicaragua,Nicaragua,NI,NIC,6134270.0,130373.0,Managua,12.145991,-86.274666,Central America,North America
+Niger,Niger,NE,NER,17138707.0,1267000.0,Niamey,13.524834,2.109823,Western Africa,Africa
+Nigeria,Nigeria,NG,NGA,178517000.0,923768.0,Abuja,9.06433,7.489297,Western Africa,Africa
+Norfolk Island,Norfolk Island,NF,NFK,2302.0,36.0,Kingston,17.971215,-76.792813,Australia and New Zealand,Oceania
+North Korea,북한,KP,PRK,25027000.0,120538.0,Pyongyang,39.019474,125.753388,Eastern Asia,Asia
+Northern Mariana Islands,Northern Mariana Islands,MP,MNP,53883.0,464.0,Saipan,15.190983,145.746853,Micronesia,Oceania
+Norway,Norge,NO,NOR,5156450.0,323802.0,Oslo,59.91333,10.73897,Nordic Countries,Europe
+Oman,عمان,OM,OMN,4089076.0,309500.0,Muscat,23.599786,58.54513,Middle East,Asia
+Pakistan,Pakistan,PK,PAK,188410000.0,881912.0,Islamabad,33.693812,73.065151,Southern and Central Asia,Asia
+Papua New Guinea,Papua Niugini,PG,PNG,7398500.0,462840.0,Port Moresby,-9.47433,147.15995,Melanesia,Oceania
+Paraguay,Paraguay,PY,PRY,6893727.0,406752.0,Asunción,-25.280046,-57.634381,South America,South America
+Peru,Perú,PE,PER,30814175.0,1285216.0,Lima,-12.062106,-77.036526,South America,South America
+Philippines,Pilipinas,PH,PHL,100697400.0,342353.0,Manila,14.590622,120.97997,Southeast Asia,Asia
+Poland,Polska,PL,POL,38496000.0,312679.0,Warsaw,52.233717,21.071411,Eastern Europe,Europe
+Portugal,Portugal,PT,PRT,10477800.0,92090.0,Lisbon,38.707751,-9.136592,Southern Europe,Europe
+Puerto Rico,Puerto Rico,PR,PRI,3615086.0,8870.0,San Juan,18.465299,-66.116666,Caribbean,North America
+Qatar,قطر,QA,QAT,2269672.0,11586.0,Doha,25.285633,51.526416,Middle East,Asia
+Republic of the Congo,République du Congo,CG,COG,4559000.0,342000.0,Brazzaville,-4.269441,15.271226,Central Africa,Africa
+Romania,România,RO,ROU,19942642.0,238391.0,Bucharest,44.436141,26.10272,Eastern Europe,Europe
+Russia,Россия,RU,RUS,146233000.0,17124442.0,Moscow,55.750446,37.617494,Eastern Europe,Europe
+Rwanda,Rwanda,RW,RWA,10996891.0,26338.0,Kigali,-1.88596,30.129675,Eastern Africa,Africa
+Réunion,La Réunion,RE,REU,840974.0,,Saint-Denis,48.935773,2.358023,Eastern Africa,Africa
+Saint Helena,Saint Helena,SH,SHN,4255.0,,Jamestown,37.210443,-76.773893,Western Africa,Africa
+Saint Kitts and Nevis,Saint Kitts and Nevis,KN,KNA,55000.0,261.0,Basseterre,17.296092,-62.722301,Caribbean,North America
+Saint Pierre and Miquelon,Saint-Pierre-et-Miquelon,PM,SPM,6081.0,242.0,Saint-Pierre,48.383272,7.471873,North America,North America
+Samoa,Samoa,WS,WSM,187820.0,2842.0,Apia,-13.834369,-171.769279,Polynesia,Oceania
+San Marino,San Marino,SM,SMR,32743.0,61.0,City of San Marino,43.9364,12.446699,Southern Europe,Europe
+Saudi Arabia,العربية السعودية,SA,SAU,30770375.0,2149690.0,Riyadh,24.631969,46.715065,Middle East,Asia
+Senegal,Sénégal,SN,SEN,13508715.0,196722.0,Dakar,14.693425,-17.447938,Western Africa,Africa
+Serbia,Srbija,RS,SRB,7186862.0,49037.0,Belgrade,44.817813,20.456897,,
+Seychelles,Seychelles,SC,SYC,89949.0,452.0,Victoria,-36.59861,144.678005,Eastern Africa,Africa
+Sierra Leone,Sierra Leone,SL,SLE,6205000.0,71740.0,Freetown,8.479004,-13.26795,Western Africa,Africa
+Singapore,Singapore,SG,SGP,5469700.0,710.0,Singapore,1.357107,103.819499,Southeast Asia,Asia
+Slovakia,Slovensko,SK,SVK,5415949.0,49037.0,Bratislava,48.151699,17.109306,Eastern Europe,Europe
+Slovenia,Slovenija,SI,SVN,2064966.0,20273.0,Ljubljana,46.04998,14.50686,Southern Europe,Europe
+Solomon Islands,Solomon Islands,SB,SLB,581344.0,28896.0,Honiara,-9.431077,159.955255,Melanesia,Oceania
+Somalia,Soomaaliya,SO,SOM,10806000.0,637657.0,Mogadishu,2.042778,45.338564,Eastern Africa,Africa
+South Africa,South Africa,ZA,ZAF,54002000.0,1221037.0,Pretoria,-25.745937,28.187944,Southern Africa,Africa
+South Georgia,South Georgia,GS,SGS,30.0,,King Edward Point,-54.283545,-36.494636,Antarctica,Antarctica
+South Korea,대한민국,KR,KOR,50423955.0,100210.0,Seoul,37.566679,126.978291,Eastern Asia,Asia
+South Sudan,South Sudan,SS,SSD,11384393.0,619745.0,Juba,4.847202,31.595166,Eastern Africa,Africa
+Spain,España,ES,ESP,46507760.0,505992.0,Madrid,40.416705,-3.703582,Southern Europe,Europe
+Sri Lanka,śrī laṃkāva,LK,LKA,20277597.0,65610.0,Colombo,6.934997,79.853846,Southeast Asia,Asia
+Sudan,السودان,SD,SDN,37289406.0,1886068.0,Khartoum,15.593325,32.53565,Northern Africa,Africa
+Suriname,Suriname,SR,SUR,534189.0,163820.0,Paramaribo,5.821609,-55.177043,South America,South America
+Svalbard and Jan Mayen,Svalbard og Jan Mayen,SJ,SJM,2562.0,,Longyearbyen,78.223156,15.646366,Nordic Countries,Europe
+Swaziland,Swaziland,SZ,SWZ,1106189.0,17364.0,Lobamba,-26.446285,31.208378,Southern Africa,Africa
+Sweden,Sverige,SE,SWE,9737521.0,450295.0,Stockholm,59.325117,18.071094,Nordic Countries,Europe
+Switzerland,Schweiz,CH,CHE,8183800.0,41284.0,Bern,46.948271,7.451451,Western Europe,Europe
+Syria,سوريا,SY,SYR,22964324.0,185180.0,Damascus,33.51307,36.309581,Middle East,Asia
+São Tomé and Príncipe,São Tomé e Príncipe,ST,STP,187356.0,964.0,São Tomé,0.338924,6.731303,Central Africa,Africa
+Taiwan,臺灣,TW,TWN,23424615.0,36193.0,Taipei,25.03752,121.56368,,
+Tajikistan,Тоҷикистон,TJ,TJK,8161000.0,143100.0,Dushanbe,38.542584,68.815214,Southern and Central Asia,Asia
+Tanzania,Tanzania,TZ,TZA,47421786.0,945087.0,Dodoma,-6.337282,35.737177,Eastern Africa,Africa
+Thailand,ประเทศไทย,TH,THA,64871000.0,513120.0,Bangkok,13.754253,100.493087,Southeast Asia,Asia
+The Bahamas,Bahamas,BS,BHS,319031.0,13943.0,Nassau,25.078346,-77.338333,Caribbean,North America
+The Gambia,Gambia,GM,GMB,1882450.0,11295.0,Banjul,13.441346,-16.562471,Western Africa,Africa
+Togo,Togo,TG,TGO,6993000.0,56785.0,Lomé,6.130419,1.215829,Western Africa,Africa
+Trinidad and Tobago,Trinidad and Tobago,TT,TTO,1328019.0,5130.0,Port of Spain,10.657268,-61.518017,Caribbean,North America
+Tunisia,تونس,TN,TUN,10982754.0,163610.0,Tunis,33.843941,9.400138,Northern Africa,Africa
+Turkey,Türkiye,TR,TUR,76667864.0,783562.0,Ankara,39.920777,32.854067,Middle East,Asia
+Turkmenistan,Türkmenistan,TM,TKM,5838064.0,488100.0,Ashgabat,37.939668,58.387426,Southern and Central Asia,Asia
+Tuvalu,Tuvalu,TV,TUV,11323.0,26.0,Funafuti,-8.534995,179.11865,Polynesia,Oceania
+Uganda,Uganda,UG,UGA,34856813.0,241550.0,Kampala,0.317714,32.581354,Eastern Africa,Africa
+Ukraine,Україна,UA,UKR,42973696.0,603700.0,Kiev,50.450034,30.524136,Eastern Europe,Europe
+United Arab Emirates,دولة الإمارات العربية المتحدة,AE,ARE,9446000.0,83600.0,Abu Dhabi,24.474796,54.370576,Middle East,Asia
+United Kingdom,United Kingdom,GB,GBR,64105654.0,242900.0,London,51.507322,-0.127647,British Isles,Europe
+United States,United States,US,USA,319259000.0,9629091.0,Washington D.C.,38.894986,-77.036571,North America,North America
+Uruguay,Uruguay,UY,URY,3404189.0,181034.0,Montevideo,-34.905904,-56.191357,South America,South America
+Uzbekistan,O‘zbekiston,UZ,UZB,30492800.0,447400.0,Tashkent,41.312336,69.278708,Southern and Central Asia,Asia
+Vanuatu,Vanuatu,VU,VUT,264652.0,12189.0,Port Vila,-17.741497,168.315016,Melanesia,Oceania
+Venezuela,Venezuela,VE,VEN,30206307.0,916445.0,Caracas,10.506098,-66.914602,South America,South America
+Vietnam,Việt Nam,VN,VNM,89708900.0,331212.0,Hanoi,21.02945,105.854444,Southeast Asia,Asia
+Wales,,GB,GBR,,,,,,,Europe
+Wallis and Futuna,Wallis et Futuna,WF,WLF,13135.0,142.0,Mata-Utu,-13.282042,-176.174022,Polynesia,Oceania
+Western Sahara,الصحراء الغربية,EH,ESH,586000.0,266000.0,El Aaiún,27.154512,-13.195392,Northern Africa,Africa
+Yemen,اليَمَن,YE,YEM,25956000.0,527968.0,Sana'a,15.353857,44.205884,Middle East,Asia
+Zambia,Zambia,ZM,ZMB,15023315.0,752612.0,Lusaka,-15.416449,28.282154,Eastern Africa,Europe
+Zimbabwe,Zimbabwe,ZW,ZWE,13061239.0,390757.0,Harare,-17.831773,31.045686,Eastern Africa,Africa
