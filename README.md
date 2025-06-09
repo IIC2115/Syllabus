@@ -93,7 +93,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 |:---------:|:----------:|:--------:|
 | Cátedra   | Lunes 02/06 | [Slides]() - [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%206/Ejercicios) - [Ticket](https://forms.gle/nDrwayMYz1KTVABy6) |
 | Ayudantía | Jueves 05/06 | [Ayudantía 10](Ayudantías/Ayudantía%2010) |
-| Laboratorio | Lunes 09/06 | [Enunciado](Laboratorios/L6/L6.pdf) |
+| Laboratorio | Lunes 09/06 | [Enunciado](Laboratorios/L6/L6.pdf), [Data](Laboratorios/L6/Data)|
 
 </details>
 
