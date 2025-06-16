@@ -83,20 +83,33 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra   | Lunes 19/05 | [Slides]() - [Materia](Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%205/Ejercicios) - [Ticket](https://forms.gle/qmrTiqjM3QV59utL7) |
 | Ayudantía | Jueves 22/05 | [Ayudantía 9](Ayudantías/Ayudantía%209) |
 | Laboratorio | Lunes 26/05 | [Enunciado](Laboratorios/L5/L5.pdf), [Data](Laboratorios/L5/Data_L5.zip) |
+| Ayudantía | Jueves 29/05 | [Ayudantía 10](Ayudantías/Ayudantía%2010) |
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 6: Extracción y visualización de datos</summary>
 
 | Instancia | Fecha      | Recursos |
 |:---------:|:----------:|:--------:|
-| Cátedra   | Lunes 02/06 | [Slides]() - [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%206/Ejercicios) - [Ticket](https://forms.gle/nDrwayMYz1KTVABy6) |
-| Ayudantía | Jueves 05/06 | [Ayudantía 10](Ayudantías/Ayudantía%2010) |
+| Cátedra   | Lunes 02/06 | [Slides](Material%20de%20clases/Capítulo%206/Slides) - [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%206/Ejercicios) - [Ticket](https://forms.gle/nDrwayMYz1KTVABy6) |
+| Ayudantía | Jueves 05/06 | [Ayudantía 11](Ayudantías/Ayudantía%2011) |
 | Laboratorio | Lunes 09/06 | [Enunciado](Laboratorios/L6/L6.pdf), [Data](Laboratorios/L6/Data)|
+| Ayudantía | Jueves 12/06 | [Ayudantía 12](Ayudantías/Ayudantía%2012) |
 
 </details>
 
+
+<details open>
+<summary>Capítulo 7: Manejo de Datos Relacionales y Consultas</summary>
+
+| Instancia | Fecha      | Recursos |
+|:---------:|:----------:|:--------:|
+| Cátedra   | Lunes 16/06 | [Slides](Material%20de%20clases/Capítulo%207/Slides) - [Materia](Material%20de%20clases/Capítulo%207/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%207/Ejercicios) - [Ticket](https://forms.gle/UrFhgCEQi9LK9iNB9) |
+| Ayudantía | Jueves 19/06 | [Ayudantía 13]() |
+| Laboratorio | Lunes 23/06 | [Enunciado](), [Data]() |
+| Ayudantía | Jueves 26/06 | [Ayudantía 14]() |
+</details>
 
 ## Recorrecciones
 
