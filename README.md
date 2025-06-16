@@ -87,7 +87,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 6: Extracción y visualización de datos</summary>
 
 | Instancia | Fecha      | Recursos |
