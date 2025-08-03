@@ -12,7 +12,7 @@
     - **L** debe ser mayor o igual a 3,95
     - **P** debe ser mayor o igual a 3,95
       
-1. Si se cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = N**. En caso contrario, **NF = min(3,9; N)**
+1. Si se cumple con las condiciones anteriores, entonces la nota final del curso **NF**, está dada por **NF = N**. En caso contrario, **NF = min(3,9; N)**.
 
 ## Notas
 Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
@@ -26,6 +26,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Clase 0     | 03/08/2025   |          |
+
 
 
 </details>
@@ -71,3 +72,4 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 * [Syllabus 2024-1](https://github.com/IIC2115/Syllabus-2024-1)
 * [Syllabus 2024-2](https://github.com/IIC2115/Syllabus-2024-2)
 * [Syllabus 2025-1](https://github.com/IIC2115/Syllabus-2025-1)
+
