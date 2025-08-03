@@ -25,7 +25,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Clase 0     | 03/08/2025   |          | 
+| Clase 0     | 03/08/2025   |          |
+
 
 </details>
 
