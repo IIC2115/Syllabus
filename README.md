@@ -1,4 +1,6 @@
-# IIC2115 - Programación como Herramienta para la Ingeniería 2025-2
+# IIC2115 - Programación como Herramienta para la Ingeniería
+
+## [Programa del curso](Programa.pdf)
 
 ## Evaluación
 
@@ -20,15 +22,13 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 ## Calendario 
 
-<details>
+<details open>
 <summary>Capítulo 0: Introducción</summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Clase 0     | 03/08/2025   |          |
-
-
-
+| Cátedra     | Lunes 04/08  | Slides - Ejercicio - Ticket |
+| Ayudantía   | Jueves 07/08 | Ayudantía |
 </details>
 
 
@@ -36,7 +36,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 ## Recorrecciones
 
 * El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
-* Solo puede solicitar la recorrección a través de [este formulario]().
+* Solo puede solicitar la recorrección a través de [este formulario](https://forms.gle/QtWzB4fgfrxdNkq86).
 * No se aceptarán correos para solicitar recorrección, ni solicitudes fuera de plazo.
 * Sea explícito en lo que desea recorregir, brindando los argumentos correspondientes. Solicitudes del tipo "Revisar todo nuevamente", o "Debiera tener mayor puntaje" no serán consideradas.
 * Tenga en cuenta que al recorregir su nota puede subir, bajar o mantenerse.
