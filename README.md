@@ -36,7 +36,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 11/08  | Slides - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - [Ticket](https://forms.gle/pudvaK6YojETssMN6) |
+| Cátedra     | Lunes 11/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides/01%20-%20Fundamentos%20-%20POO%20y%20EDD.pdf) - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%201/Ejercicios) - [Ticket](https://forms.gle/pudvaK6YojETssMN6) |
 | Ayudantía   | Jueves 14/08 | Ayudantía 1 |
 | Laboratorio | Lunes 18/08  | Laboratorio 1 |
 | Ayudantía   | Jueves 21/08 | Ayudantía 2 |
