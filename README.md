@@ -28,7 +28,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 04/08  | [Slides](Material%20de%20clases/Capítulo%200/Slides/01%20-%20Introducción.pdf) - [Ejercicio](Material%20de%20clases/Capítulo%200/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/RwEADLMfS3GmqVNaA) |
-| Ayudantía   | Jueves 07/08 | Ayudantía 1 |
+| Ayudantía   | Jueves 07/08 | [Ayudantía 0](Ayudantias/Ayudantia%200/C0) |
 </details>
 
 <details open>
@@ -36,8 +36,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 11/08  | Slides - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - Ticket |
-| Ayudantía   | Jueves 14/08 | Ayudantía 2 |
+| Cátedra     | Lunes 11/08  | Slides - [Materia](Material%20de%20clases/Cap%C3%ADtulo%201/Notebooks) - Ejercicios - [Ticket](https://forms.gle/pudvaK6YojETssMN6) |
+| Ayudantía   | Jueves 14/08 | Ayudantía 1 |
 | Laboratorio | Lunes 18/08  | Laboratorio 1 |
 | Ayudantía   | Jueves 21/08 | Ayudantía 2 |
 </details>
