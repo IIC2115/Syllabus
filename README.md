@@ -22,7 +22,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 ## Calendario 
 
-<details open>
+<details>
 <summary>Capítulo 0: Introducción</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -31,7 +31,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 07/08 | [Ayudantía 0](Ayudantias/Ayudantia%200) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 1: Fundamentos </summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -40,6 +40,17 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 14/08 | [Ayudantía 1](Ayudantias/Ayudantia%201) |
 | Laboratorio | Lunes 18/08  | [Laboratorio 1](Laboratorios/L1) |
 | Ayudantía   | Jueves 21/08 | [Ayudantía 2](Ayudantias/Ayudantía%202) |
+</details>
+
+<details open>
+<summary>Capítulo 2: Manejo y Análisis de Datos Tabulares </summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 25/08  |  Slides - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - Ejercicios - [Ticket](https://forms.gle/aZ1LmqeDLBDtKX9V6) |
+| Ayudantía   | Jueves 28/08 | Ayudantía 3 |
+| Laboratorio | Lunes 01/09  | Enunciado |
+| Ayudantía   | Jueves 04/08 | Ayudantía 4 |
 </details>
 
 
