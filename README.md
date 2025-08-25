@@ -47,7 +47,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 25/08  |  Slides - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - Ejercicios - [Ticket](https://forms.gle/aZ1LmqeDLBDtKX9V6) |
+| Cátedra     | Lunes 25/08  |  [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Manejo%20y%20análisis%20de%20datos%20tabulares.pdf) - [Materia](Material%20de%20clases/Capítulo%202/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%202/Ejercicios) - [Ticket](https://forms.gle/aZ1LmqeDLBDtKX9V6) |
 | Ayudantía   | Jueves 28/08 | Ayudantía 3 |
 | Laboratorio | Lunes 01/09  | Enunciado |
 | Ayudantía   | Jueves 04/08 | Ayudantía 4 |
