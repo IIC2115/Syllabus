@@ -42,7 +42,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 21/08 | [Ayudantía 2](Ayudantias/Ayudantía%202) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 2: Manejo y Análisis de Datos Tabulares </summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -58,7 +58,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
    
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 08/09  |  Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.ipynb) - Ejercicios - Ticket |
+| Cátedra     | Lunes 08/09  |  Slides - [Materia](Material%20de%20clases/Capítulo%203/Notebooks/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.ipynb) - Ejercicios - [Ticket](https://forms.gle/kTuJs2WxJYN7v5JQ8) |
 | Ayudantía   | Jueves 11/09 | Ayudantía 5 |
 | Cátedra     | Lunes 22/09  | Ejercicios - Ticket |
 | Ayudantía   | Jueves 25/09 | Ayudantía 6 |
