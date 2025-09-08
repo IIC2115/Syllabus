@@ -54,7 +54,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 </details>
 
 <details open>
-<summary>Capítulo 3: Modelos Predictivos </summary>
+<summary>Capítulo 3: Modelos Predictivos basados en Machine Learning </summary>
    
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
