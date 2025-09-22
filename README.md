@@ -60,7 +60,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 08/09  |  [Slides](Material%20de%20clases/Capítulo%203/Slides/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.pdf) - [Materia](Material%20de%20clases/Capítulo%203/Notebooks/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.ipynb) - [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Cap%C3%ADtulo%203/Ejercicios) - [Ticket](https://forms.gle/kTuJs2WxJYN7v5JQ8) |
 | Ayudantía   | Jueves 11/09 | Ayudantía 5 |
-| Cátedra     | Lunes 22/09  | Ejercicios - Ticket |
+| Cátedra     | Lunes 22/09  | [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Cap%C3%ADtulo%203/Ejercicios) - [Ticket](https://forms.gle/gB7NAzoWLEtHct1w7) |
 | Ayudantía   | Jueves 25/09 | Ayudantía 6 |
 </details>
 
