@@ -62,6 +62,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 11/09 | Ayudantía 5 |
 | Cátedra     | Lunes 22/09  | [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Cap%C3%ADtulo%203/Ejercicios) - [Ticket](https://forms.gle/gB7NAzoWLEtHct1w7) |
 | Ayudantía   | Jueves 25/09 | Ayudantía 6 |
+| Laboratorio | Lunes 29/09  | Laboratorio 3 | 
 </details>
 
 
