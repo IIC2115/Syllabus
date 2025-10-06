@@ -53,18 +53,28 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 04/09 | [Ayudantía 4](Ayudantias/Ayudantia%204) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 3: Modelos Predictivos basados en Machine Learning </summary>
    
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 08/09  |  [Slides](Material%20de%20clases/Capítulo%203/Slides/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.pdf) - [Materia](Material%20de%20clases/Capítulo%203/Notebooks/01%20-%20Modelos%20predictivos%20basados%20en%20Machine%20Learning.ipynb) - [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Cap%C3%ADtulo%203/Ejercicios) - [Ticket](https://forms.gle/kTuJs2WxJYN7v5JQ8) |
-| Ayudantía   | Jueves 11/09 | Ayudantía 5 |
+| Ayudantía   | Jueves 11/09 | [Ayudantía 5](Ayudantias/Ayudantia%205) |
 | Cátedra     | Lunes 22/09  | [Ejercicios](https://github.com/IIC2115/Syllabus/tree/main/Material%20de%20clases/Cap%C3%ADtulo%203/Ejercicios) - [Ticket](https://forms.gle/gB7NAzoWLEtHct1w7) |
-| Ayudantía   | Jueves 25/09 | Ayudantía 6 |
+| Ayudantía   | Jueves 25/09 | [Ayudantía 6](Ayudantias/Ayudantia%206) |
 | Laboratorio | Lunes 29/09  | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Laboratorios/L3/L3.pdf) - [Datos](https://github.com/IIC2115/Syllabus/tree/main/Laboratorios/L3/L3_datos.zip) | 
 </details>
 
+<details open>
+<summary>Capítulo 4: Análisis de datos geoespaciales</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 06/10  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Materia](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/31UCM1J8eqncMnYEA) |
+| Ayudantía   | Jueves 09/10 | Ayudantía 7 |
+| Laboratorio | Lunes 13/10  | Enunciado |
+
+</details>
 
 
 ## Recorrecciones
