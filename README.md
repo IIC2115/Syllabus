@@ -81,7 +81,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 20/10  | Slides - [Materia](Material%20de%20clases/Capítulo%205/Notebooks) - Ejercicios - [Ticket](https://forms.gle/qZjw2ExNyf3XPk866) |
+| Cátedra     | Lunes 20/10  | [Slides](Material%20de%20clases/Capítulo%205/Slides/01%20-%20Análisis%20de%20redes.pdf) - [Materia](Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%205/Ejercicios) - [Ticket](https://forms.gle/qZjw2ExNyf3XPk866) |
 | Ayudantía   | Jueves 23/10 | Ayudantía 7 |
 | Laboratorio | Lunes 27/10  | Enunciado | 
 
