@@ -65,7 +65,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 29/09  | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Laboratorios/L3/L3.pdf) - [Datos](https://github.com/IIC2115/Syllabus/tree/main/Laboratorios/L3/L3_datos.zip) | 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4: Análisis de datos geoespaciales</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -73,6 +73,17 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 06/10  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Materia](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/31UCM1J8eqncMnYEA) |
 | Ayudantía   | Jueves 09/10 | Ayudantía 7 |
 | Laboratorio | Lunes 13/10  | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Laboratorios/L4/L4.pdf) - [Datos](https://github.com/IIC2115/Syllabus/tree/main/Laboratorios/L4/L4_datos.zip) | 
+
+</details>
+
+<details open>
+<summary>Capítulo 5: Análisis de redes</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 20/10  | Slides - [Materia](Material%20de%20clases/Capítulo%205/Notebooks) - Ejercicios - [Ticket](https://forms.gle/qZjw2ExNyf3XPk866) |
+| Ayudantía   | Jueves 23/10 | Ayudantía 7 |
+| Laboratorio | Lunes 27/10  | Enunciado | 
 
 </details>
 
