@@ -83,7 +83,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 20/10  | [Slides](Material%20de%20clases/Capítulo%205/Slides/01%20-%20Análisis%20de%20redes.pdf) - [Materia](Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%205/Ejercicios) - [Ticket](https://forms.gle/qZjw2ExNyf3XPk866) |
 | Ayudantía   | Jueves 23/10 | Ayudantía 7 |
-| Laboratorio | Lunes 27/10  | Enunciado | 
+| Laboratorio | Lunes 27/10  | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Laboratorios/L5/L5.pdf) - [Datos](https://github.com/IIC2115/Syllabus/tree/main/Laboratorios/L5/L5_datos.zip)| 
 
 </details>
 
