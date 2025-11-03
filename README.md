@@ -92,7 +92,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 03/11  | Slides - [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - Ejercicios - [Ticket](https://forms.gle/frHSKWtbJ8RbRabj7) |
+| Cátedra     | Lunes 03/11  | [Slides](Material%20de%20clases/Capítulo%206/Slides/01%20-%20Bases%20de%20datos%20relacionales.pdf) - [Materia](Material%20de%20clases/Capítulo%206/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%206/Ejercicios) - [Ticket](https://forms.gle/frHSKWtbJ8RbRabj7) |
 | Ayudantía   | Jueves 06/11 | Ayudantia 9 |
 | Laboratorio | Lunes 10/11  | Enunciado - Datos |
 
