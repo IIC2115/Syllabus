@@ -76,7 +76,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 5: Análisis de redes</summary>
 
 | Instancia   | Fecha        | Recursos |
