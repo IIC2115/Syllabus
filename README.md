@@ -103,7 +103,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia | Fecha      | Recursos |
 |:---------:|:----------:|:--------:|
-| Cátedra   | Lunes 17/11 | Slides - [Materia](Material%20de%20clases/Capítulo%207/Notebooks) - Ejercicios - [Ticket](https://forms.gle/RvDaHmRv3qY39cUT7) |
+| Cátedra   | Lunes 17/11 | [Slides](Material%20de%20clases/Capítulo%207/Slides/01%20-%20Extraccion%20y%20visualizacion%20de%20datos.pdf) - [Materia](Material%20de%20clases/Capítulo%207/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%207/Ejercicios) - [Ticket](https://forms.gle/RvDaHmRv3qY39cUT7) |
 | Ayudantía | Jueves 20/11 | Ayudantía 14 |
 | Laboratorio | Lunes 24/11 | Enunciado - Datos |
 | Ayudantía | Jueves 27/11 | Ayudantía 15 |
