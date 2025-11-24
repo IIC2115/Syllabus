@@ -105,7 +105,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 |:---------:|:----------:|:--------:|
 | Cátedra   | Lunes 17/11 | [Slides](Material%20de%20clases/Capítulo%207/Slides/01%20-%20Extraccion%20y%20visualizacion%20de%20datos.pdf) - [Materia](Material%20de%20clases/Capítulo%207/Notebooks) - [Ejercicios](Material%20de%20clases/Capítulo%207/Ejercicios) - [Ticket](https://forms.gle/RvDaHmRv3qY39cUT7) |
 | Ayudantía | Jueves 20/11 | Ayudantía 14 |
-| Laboratorio | Lunes 24/11 | Enunciado - Datos |
+| Laboratorio | Lunes 24/11 | [Enunciado](https://github.com/IIC2115/Syllabus/blob/main/Laboratorios/L7/L7.pdf)|
 | Ayudantía | Jueves 27/11 | Ayudantía 15 |
 
 </details>
