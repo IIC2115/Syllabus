@@ -29,7 +29,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 09/03  | [Slides](Material%20de%20clases/Capítulo%201/Slides/01%20-%20Introducción.pdf) - [Ejercicio](Material%20de%20clases/Cap%C3%ADtulo%201/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/6Utq72JXFjEkysmy8) |
 | Ayudantía   | Jueves 12/03 | Ayudantía 1 |
-| Cátedra     | Lunes 16/03  | Slides - [Materia](Material%20de%20clases/Capítulo%201/Notebooks) - Ejercicios - Ticket |
+| Cátedra     | Lunes 16/03  | Slides - [Materia](Material%20de%20clases/Capítulo%201/Notebooks) - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%201/Ejercicios) - [Ticket](https://forms.gle/KuiXd8JtnSAuVtby9) |
 | Ayudantía   | Jueves 19/03 | Ayudantía 2 |
 | Laboratorio | Lunes 23/03  | Laboratorio 1 |
 </details>
