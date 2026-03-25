@@ -31,7 +31,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 12/03 | Ayudantía 1 |
 | Cátedra     | Lunes 16/03  | [Slides](Material%20de%20clases/Capítulo%201/Slides/02%20-%20Fundamentos%20de%20POO%20y%20EDD.pdf) - [Materia](Material%20de%20clases/Capítulo%201/Notebooks) - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%201/Ejercicios) - [Ticket](https://forms.gle/KuiXd8JtnSAuVtby9) |
 | Ayudantía   | Jueves 19/03 | Ayudantía 2 |
-| Laboratorio | Lunes 23/03  | Laboratorio 1 |
+| Laboratorio | Lunes 23/03  | [Laboratorio 1](Laboratorios/L1/L1.pdf) |
 </details>
 
 
