@@ -39,7 +39,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 30/03  | Slides - [Notebooks](Material%20de%20clases/Capítulo%202/Notebooks)  - Ejercicios - Ticket |
+| Cátedra     | Lunes 30/03  | Slides - [Notebooks](Material%20de%20clases/Capítulo%202/Notebooks)  - Ejercicios - [Ticket](https://forms.gle/Liv6gxjcc8TkuwxJ6) |
 | Cátedra     | Lunes 06/04  | Slides - Notebooks - Ejercicios - Ticket |
 | Ayudantía   | Jueves 09/04 | Ayudantía 3 |
 | Laboratorio | Lunes 13/04  | Laboratorio 2 |
