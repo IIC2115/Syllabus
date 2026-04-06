@@ -40,7 +40,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 30/03  | [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Manejo%20y%20análisis%20de%20datos%20tabulares.pdf) - [Notebooks](Material%20de%20clases/Capítulo%202/Notebooks)  - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - [Ticket](https://forms.gle/Liv6gxjcc8TkuwxJ6) |
-| Cátedra     | Lunes 06/04  | Slides - [Notebooks](Material%20de%20clases/Capítulo%202/Notebooks) - Ejercicios - Ticket |
+| Cátedra     | Lunes 06/04  | [Slides](Material%20de%20clases/Capítulo%202/Slides/02%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Notebooks 3 y 4](Material%20de%20clases/Capítulo%202/Notebooks) - [Ejercicios 4 y 5](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - [Ticket](https://forms.gle/Lx5wQ8RyvXDXpkr49) |
 | Ayudantía   | Jueves 09/04 | Ayudantía 3 |
 | Laboratorio | Lunes 13/04  | Laboratorio 2 |
 </details>
