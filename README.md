@@ -31,7 +31,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 12/03 | Ayudantía 1 |
 | Cátedra     | Lunes 16/03  | [Slides](Material%20de%20clases/Capítulo%201/Slides/02%20-%20Fundamentos%20de%20POO%20y%20EDD.pdf) - [Notebooks](Material%20de%20clases/Capítulo%201/Notebooks) - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%201/Ejercicios) - [Ticket](https://forms.gle/KuiXd8JtnSAuVtby9) |
 | Ayudantía   | Jueves 19/03 | Ayudantía 2 |
-| Laboratorio | Lunes 23/03  | [Laboratorio 1](Laboratorios/L1/L1.pdf) |
+| Laboratorio | Lunes 23/03  | [Enunciado L1](Laboratorios/L1/L1.pdf) |
 </details>
 
 <details open>
@@ -42,7 +42,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 30/03  | [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Manejo%20y%20análisis%20de%20datos%20tabulares.pdf) - [Notebooks](Material%20de%20clases/Capítulo%202/Notebooks)  - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - [Ticket](https://forms.gle/Liv6gxjcc8TkuwxJ6) |
 | Cátedra     | Lunes 06/04  | [Slides](Material%20de%20clases/Capítulo%202/Slides/02%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Notebooks 3 y 4](Material%20de%20clases/Capítulo%202/Notebooks) - [Ejercicios 4 y 5](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - [Ticket](https://forms.gle/Lx5wQ8RyvXDXpkr49) |
 | Ayudantía   | Jueves 09/04 | Ayudantía 3 |
-| Laboratorio | Lunes 13/04  | Laboratorio 2 |
+| Laboratorio | Lunes 13/04  | Enunciado L2 - [Datos](Laboratorios/L2/datos_L2.zip) |
 </details>
 
 
