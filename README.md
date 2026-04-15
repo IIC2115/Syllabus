@@ -34,7 +34,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 23/03  | [Enunciado L1](Laboratorios/L1/L1.pdf) |
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 2: Manejo y Análisis de Datos</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -45,8 +45,17 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 13/04  | [Enunciado L2](Laboratorios/L2/L2.pdf) - [Datos](Laboratorios/L2/datos_L2.zip) |
 </details>
 
-
-
+<details open>
+<summary>Capítulo 3: Modelos Predictivos basados en Machine Learning </summary>
+   
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 20/04  | Slides - [Notebooks](Material%20de%20clases/Capítulo%203/Notebooks/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.ipynb)  - Ejercicios - Ticket |
+| Ayudantía   | Jueves 23/04 | Ayudantía 4 |
+| Cátedra     | Lunes 27/04  | Slides - Notebooks - Ejercicios - Ticket |
+| Ayudantía   | Jueves 30/04 | Ayudantía 5 |
+| Laboratorio | Lunes 04/05  | Enunciado L3 - Datos |
+</details>
 
 ## Recorrecciones
 
