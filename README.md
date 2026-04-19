@@ -50,7 +50,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
    
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 20/04  | Slides - [Notebooks](Material%20de%20clases/Capítulo%203/Notebooks/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.ipynb)  - Ejercicios - Ticket |
+| Cátedra     | Lunes 20/04  | Slides - [Notebooks](Material%20de%20clases/Capítulo%203/Notebooks/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.ipynb)  - Ejercicios - [Ticket](https://forms.gle/5JiqJyG4rS45koQq6) |
 | Ayudantía   | Jueves 23/04 | Ayudantía 4 |
 | Cátedra     | Lunes 27/04  | Slides - Notebooks - Ejercicios - Ticket |
 | Ayudantía   | Jueves 30/04 | Ayudantía 5 |
