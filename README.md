@@ -60,7 +60,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 ## Recorrecciones
 
 * El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
-* Solo puede solicitar la recorrección a través de [este formulario](https://forms.gle/mkiU6wyTfxXQDtQBA).
+* Solo puede solicitar la recorrección a través del formulario que se encuentra junto al acceso al enunciado de cada laboratorio en la página de inicio del Syllabus.
 * No se aceptarán correos para solicitar recorrección, ni solicitudes fuera de plazo.
 * Sea explícito en lo que desea recorregir, brindando los argumentos correspondientes. Solicitudes del tipo "Revisar todo nuevamente", o "Debiera tener mayor puntaje" no serán consideradas.
 * Tenga en cuenta que al recorregir su nota puede subir, bajar o mantenerse.
