@@ -54,7 +54,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 23/04 | Ayudantía 4 |
 | Cátedra     | Lunes 27/04  | [Slides](Material%20de%20clases/Capítulo%203/Slides/02%20-%20Modelos%20predictivos%20de%20aprendizaje%20no%20supervisado.pdf) - [Notebook](Material%20de%20clases/Capítulo%203/Notebooks/02%20-%20Modelos%20predictivos%20de%20aprendizaje%20no%20supervisado.ipynb) - [Ejercicios 3 y 4](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/w7zJHbLEXPaNMGMA8) |
 | Ayudantía   | Jueves 30/04 | Ayudantía 5 |
-| Laboratorio | Lunes 04/05  | Enunciado L3 - Datos |
+| Laboratorio | Lunes 04/05  | [Enunciado L3](Laboratorios/L3/L3.pdf) - [Datos](Laboratorios/L3/L3_datos.csv) |
 </details>
 
 ## Recorrecciones
