@@ -45,7 +45,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 13/04  | [Enunciado L2](Laboratorios/L2/L2.pdf) - [Datos](Laboratorios/L2/datos_L2.zip) - [Recorrección](https://forms.gle/MrnP9d2YhKYnpkF9A)|
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 3: Modelos Predictivos basados en Machine Learning </summary>
    
 | Instancia   | Fecha        | Recursos |
@@ -55,6 +55,19 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 27/04  | [Slides](Material%20de%20clases/Capítulo%203/Slides/02%20-%20Modelos%20predictivos%20de%20aprendizaje%20no%20supervisado.pdf) - [Notebook](Material%20de%20clases/Capítulo%203/Notebooks/02%20-%20Modelos%20predictivos%20de%20aprendizaje%20no%20supervisado.ipynb) - [Ejercicios 3 y 4](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/w7zJHbLEXPaNMGMA8) |
 | Ayudantía   | Jueves 30/04 | Ayudantía 5 |
 | Laboratorio | Lunes 04/05  | [Enunciado L3](Laboratorios/L3/L3.pdf) - [Datos](Laboratorios/L3/L3_datos.csv) |
+</details>
+
+<details open>
+<summary>Capítulo 4: Análisis de Redes</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 11/05  | Slides - [Notebooks](Material%20de%20clases/Capítulo%204/Notebooks) - Ejercicios - [Ticket](https://forms.gle/MoWTHw61FhQLn9eF8) |
+| Ayudantía   | Jueves 14/05 | Ayudantía 6 |
+| Cátedra     | Lunes 25/05  | Slides - Ejercicios - Ticket |
+| Ayudantía   | Jueves 28/05 | Ayudantía 7 |
+| Laboratorio | Lunes 01/06  | Enunciado L4 | 
+
 </details>
 
 ## Recorrecciones
