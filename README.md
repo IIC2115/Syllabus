@@ -64,7 +64,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 11/05  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Análisis%20de%20redes.pdf) - [Notebooks](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios 1 y 2](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/MoWTHw61FhQLn9eF8) |
 | Ayudantía   | Jueves 14/05 | Ayudantía 6 |
-| Cátedra     | Lunes 25/05  | Slides - Ejercicios - Ticket |
+| Cátedra     | Lunes 25/05  | [Ejercicios 3 y 4](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/nnmcr2VqpP8HR99V7) |
 | Ayudantía   | Jueves 28/05 | Ayudantía 7 |
 | Laboratorio | Lunes 01/06  | Enunciado L4 | 
 
