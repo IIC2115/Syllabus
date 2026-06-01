@@ -66,7 +66,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 14/05 | Ayudantía 6 |
 | Cátedra     | Lunes 25/05  | [Ejercicios 3 y 4](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/nnmcr2VqpP8HR99V7) |
 | Ayudantía   | Jueves 28/05 | Ayudantía 7 |
-| Laboratorio | Lunes 01/06  | Enunciado L4 - [Datos](Laboratorios/L4/L4_datos.zip)| 
+| Laboratorio | Lunes 01/06  | [Enunciado L4](Laboratorios/L4/L4.pdf) - [Datos](Laboratorios/L4/L4_datos.zip)| 
 
 </details>
 
