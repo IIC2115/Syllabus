@@ -57,7 +57,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 04/05  | [Enunciado L3](Laboratorios/L3/L3.pdf) - [Datos](Laboratorios/L3/L3_datos.csv) - [Recorrección](https://forms.gle/xLP8xRApBpUtDJ3C6)|
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 4: Análisis de Redes</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -67,6 +67,19 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 25/05  | [Ejercicios 3 y 4](Material%20de%20clases/Capítulo%204/Ejercicios) - [Ticket](https://forms.gle/nnmcr2VqpP8HR99V7) |
 | Ayudantía   | Jueves 28/05 | Ayudantía 7 |
 | Laboratorio | Lunes 01/06  | [Enunciado L4](Laboratorios/L4/L4.pdf) - [Datos](Laboratorios/L4/L4_datos.zip)| 
+
+</details>
+
+<details open>
+<summary>Capítulo 4: Almacenamiento, consulta y visualización de datos </summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 08/06  | Slides - [Notebooks](Material%20de%20clases/Capítulo%205/Notebooks) - Ejercicios - [Ticket](https://forms.gle/Dzib2dJ2PfQgVXbY8) |
+| Ayudantía   | Jueves 11/06 | Ayudantía 8 |
+| Cátedra     | Lunes 15/06  | Slides - Notebooks - Ejercicios - Ticket |
+| Ayudantía   | Jueves 18/06 | Ayudantía 9 |
+| Laboratorio | Lunes 22/06  | Enunciado L5 - Datos | 
 
 </details>
 
