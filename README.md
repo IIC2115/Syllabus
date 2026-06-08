@@ -75,7 +75,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 08/06  | Slides - [Notebooks](Material%20de%20clases/Capítulo%205/Notebooks) - Ejercicios - [Ticket](https://forms.gle/Dzib2dJ2PfQgVXbY8) |
+| Cátedra     | Lunes 08/06  | [Slides](Material%20de%20clases/Capítulo%205/Slides/01%20-%20Almacenamiento%20y%20consulta%20de%20datos.pdf) - [Notebooks](Material%20de%20clases/Capítulo%205/Notebooks) - [Ejercicios 1, 2 y 3](Material%20de%20clases/Capítulo%205/Ejercicios) - [Ticket](https://forms.gle/Dzib2dJ2PfQgVXbY8) |
 | Ayudantía   | Jueves 11/06 | Ayudantía 8 |
 | Cátedra     | Lunes 15/06  | Slides - Notebooks - Ejercicios - Ticket |
 | Ayudantía   | Jueves 18/06 | Ayudantía 9 |
