@@ -71,7 +71,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 </details>
 
 <details open>
-<summary>Capítulo 4: Almacenamiento, consulta y visualización de datos </summary>
+<summary>Capítulo 5: Almacenamiento, consulta y visualización de datos </summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
@@ -79,7 +79,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 11/06 | Ayudantía 8 |
 | Cátedra     | Lunes 15/06  | [Slides](Material%20de%20clases/Capítulo%205/Slides/02%20-%20Visualizacion%20de%20datos%20mediante%20dashboards.pdf) - [Notebook](Material%20de%20clases/Capítulo%205/Notebooks/04%20-%20Visualización%20mediante%20dashboards.ipynb) - [Ejercicio 4](Material%20de%20clases/Capítulo%205/Ejercicios/E4.pdf) - [Ticket](https://forms.gle/s8f6GmsKp1bmQcKq5) |
 | Ayudantía   | Jueves 18/06 | Ayudantía 9 |
-| Laboratorio | Lunes 22/06  | Enunciado L5 - Datos | 
+| Laboratorio | Lunes 22/06  | [Enunciado L5](Laboratorios/L5/L5.pdf) - [Datos](Laboratorios/L5/L5_datos.zip) | 
 
 </details>
 
