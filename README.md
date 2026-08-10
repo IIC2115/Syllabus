@@ -27,7 +27,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 10/08  | Slides - Notebooks - Ejercicios - Ticket |
+| Cátedra     | Lunes 10/08  | Slides - Notebooks - Ejercicios - [Ticket](https://forms.gle/1FX8fyxop3XXyQKa8) |
 | Ayudantía   | Jueves 13/08 | Ayudantía 1 |
 | Cátedra     | Lunes 17/08  | Slides - Notebooks - Ejercicios - Ticket |
 | Ayudantía   | Jueves 20/08 | Ayudantía 2 |
