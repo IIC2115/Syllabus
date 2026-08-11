@@ -27,9 +27,9 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 10/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides/01%20-%20Introducción.pdf) - Notebook - [Ejercicio](Material%20de%20clases/Capítulo%201/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/1FX8fyxop3XXyQKa8) |
+| Cátedra     | Lunes 10/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides/01%20-%20Introducción.pdf) - [Ejercicio](Material%20de%20clases/Capítulo%201/Ejercicios/E1.pdf) - [Ticket](https://forms.gle/1FX8fyxop3XXyQKa8) - [Notebook Repaso](Material%20de%20clases/Capítulo%201/Notebooks/00%20-%20Repaso%20-%20Programación%20Orientada%20a%20Objetos%20y%20Estructuras%20de%20Datos.ipynb) - [Ejercicio Repaso](Material%20de%20clases/Capítulo%201/Ejercicios/E0.pdf)|
 | Ayudantía   | Jueves 13/08 | Ayudantía 1 |
-| Cátedra     | Lunes 17/08  | Slides - Notebooks - Ejercicios - Ticket |
+| Cátedra     | Lunes 17/08  | Slides - [Notebooks 1 y 2](Material%20de%20clases/Capítulo%201/Notebooks/) - Ejercicios - Ticket |
 | Ayudantía   | Jueves 20/08 | Ayudantía 2 |
 | Laboratorio | Lunes 24/08  | Enunciado L1 |
 </details>
