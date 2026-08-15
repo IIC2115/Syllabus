@@ -1,0 +1,830 @@
+{
+  "semestre": "2026-2",
+  "seed": 20260812,
+  "parametros": {
+    "n_estudiantes": 24,
+    "n_solicitudes": 32
+  },
+  "datos_iniciales": {
+    "semestre": "2026-2",
+    "estudiantes": [
+      {
+        "id_persona": "E001",
+        "nombre": "Ana Torres",
+        "email": "est001@uc.cl",
+        "carrera": "Ingenieria",
+        "anio_ingreso": 2024,
+        "max_creditos": 36,
+        "cursos_aprobados": []
+      },
+      {
+        "id_persona": "E002",
+        "nombre": "Benjamin Soto",
+        "email": "est002@uc.cl",
+        "carrera": "Ingenieria",
+        "anio_ingreso": 2025,
+        "max_creditos": 24,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E003",
+        "nombre": "Camila Rojas",
+        "email": "est003@uc.cl",
+        "carrera": "Ingenieria",
+        "anio_ingreso": 2023,
+        "max_creditos": 24,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E004",
+        "nombre": "Diego Silva",
+        "email": "est004@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2023,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "ICE1514",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E005",
+        "nombre": "Elena Fuentes",
+        "email": "est005@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2023,
+        "max_creditos": 30,
+        "cursos_aprobados": []
+      },
+      {
+        "id_persona": "E006",
+        "nombre": "Felipe Vidal",
+        "email": "est006@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2023,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E007",
+        "nombre": "Gabriela Munoz",
+        "email": "est007@uc.cl",
+        "carrera": "Computacion",
+        "anio_ingreso": 2022,
+        "max_creditos": 36,
+        "cursos_aprobados": []
+      },
+      {
+        "id_persona": "E008",
+        "nombre": "Hector Castro",
+        "email": "est008@uc.cl",
+        "carrera": "Computacion",
+        "anio_ingreso": 2023,
+        "max_creditos": 30,
+        "cursos_aprobados": []
+      },
+      {
+        "id_persona": "E009",
+        "nombre": "Isidora Vega",
+        "email": "est009@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2024,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E010",
+        "nombre": "Javier Morales",
+        "email": "est010@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2024,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "ICE1514"
+        ]
+      },
+      {
+        "id_persona": "E011",
+        "nombre": "Karla Paredes",
+        "email": "est011@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2022,
+        "max_creditos": 30,
+        "cursos_aprobados": []
+      },
+      {
+        "id_persona": "E012",
+        "nombre": "Lucas Diaz",
+        "email": "est012@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2025,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E013",
+        "nombre": "Martina Reyes",
+        "email": "est013@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2025,
+        "max_creditos": 36,
+        "cursos_aprobados": [
+          "ICE1514",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E014",
+        "nombre": "Nicolas Herrera",
+        "email": "est014@uc.cl",
+        "carrera": "Ingenieria",
+        "anio_ingreso": 2024,
+        "max_creditos": 24,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103"
+        ]
+      },
+      {
+        "id_persona": "E015",
+        "nombre": "Olivia Campos",
+        "email": "est015@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2024,
+        "max_creditos": 24,
+        "cursos_aprobados": [
+          "ICE1514"
+        ]
+      },
+      {
+        "id_persona": "E016",
+        "nombre": "Pablo Navarro",
+        "email": "est016@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2022,
+        "max_creditos": 36,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103"
+        ]
+      },
+      {
+        "id_persona": "E017",
+        "nombre": "Renata Araya",
+        "email": "est017@uc.cl",
+        "carrera": "Computacion",
+        "anio_ingreso": 2022,
+        "max_creditos": 24,
+        "cursos_aprobados": [
+          "ICE1514",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E018",
+        "nombre": "Sebastian Lagos",
+        "email": "est018@uc.cl",
+        "carrera": "Ingenieria",
+        "anio_ingreso": 2022,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E019",
+        "nombre": "Trinidad Molina",
+        "email": "est019@uc.cl",
+        "carrera": "Ingenieria",
+        "anio_ingreso": 2023,
+        "max_creditos": 24,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E020",
+        "nombre": "Valentina Saez",
+        "email": "est020@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2025,
+        "max_creditos": 36,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E021",
+        "nombre": "Agustin Bravo",
+        "email": "est021@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2023,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "IIC1103",
+          "MAT1610"
+        ]
+      },
+      {
+        "id_persona": "E022",
+        "nombre": "Catalina Pena",
+        "email": "est022@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2022,
+        "max_creditos": 36,
+        "cursos_aprobados": [
+          "ICE1514",
+          "IIC1103"
+        ]
+      },
+      {
+        "id_persona": "E023",
+        "nombre": "Domingo Salas",
+        "email": "est023@uc.cl",
+        "carrera": "Ingenieria",
+        "anio_ingreso": 2023,
+        "max_creditos": 36,
+        "cursos_aprobados": []
+      },
+      {
+        "id_persona": "E024",
+        "nombre": "Emilia Leon",
+        "email": "est024@uc.cl",
+        "carrera": "Ciencia de Datos",
+        "anio_ingreso": 2023,
+        "max_creditos": 30,
+        "cursos_aprobados": [
+          "ICE1514"
+        ]
+      }
+    ],
+    "profesores": [
+      {
+        "id_persona": "P001",
+        "nombre": "Carolina Gonzalez",
+        "email": "prof001@uc.cl",
+        "departamento": "Ciencia de la Computacion",
+        "max_creditos_docencia": 24
+      },
+      {
+        "id_persona": "P002",
+        "nombre": "Rafael Mendez",
+        "email": "prof002@uc.cl",
+        "departamento": "Ingeniería Industrial",
+        "max_creditos_docencia": 24
+      },
+      {
+        "id_persona": "P003",
+        "nombre": "Patricia Valdes",
+        "email": "prof003@uc.cl",
+        "departamento": "Ciencia de la Computacion",
+        "max_creditos_docencia": 24
+      },
+      {
+        "id_persona": "P004",
+        "nombre": "Andres Figueroa",
+        "email": "prof004@uc.cl",
+        "departamento": "Ingeniería Industrial",
+        "max_creditos_docencia": 24
+      },
+      {
+        "id_persona": "P005",
+        "nombre": "Marcela Cortes",
+        "email": "prof005@uc.cl",
+        "departamento": "Ciencia de la Computacion",
+        "max_creditos_docencia": 24
+      },
+      {
+        "id_persona": "P006",
+        "nombre": "Ignacio Rivas",
+        "email": "prof006@uc.cl",
+        "departamento": "Ingeniería Industrial",
+        "max_creditos_docencia": 24
+      }
+    ],
+    "cursos": [
+      {
+        "codigo": "MAT1610",
+        "nombre": "Calculo I",
+        "creditos": 6,
+        "prerrequisitos": []
+      },
+      {
+        "codigo": "ICE1514",
+        "nombre": "Dinámica",
+        "creditos": 6,
+        "prerrequisitos": []
+      },
+      {
+        "codigo": "IIC1103",
+        "nombre": "Introduccion a la Programacion",
+        "creditos": 6,
+        "prerrequisitos": []
+      },
+      {
+        "codigo": "IIC2233",
+        "nombre": "Programacion Avanzada",
+        "creditos": 6,
+        "prerrequisitos": [
+          "IIC1103"
+        ]
+      },
+      {
+        "codigo": "IIC2133",
+        "nombre": "Estructuras de Datos",
+        "creditos": 6,
+        "prerrequisitos": [
+          "IIC1103"
+        ]
+      },
+      {
+        "codigo": "EYP1103",
+        "nombre": "Probabilidad y Estadistica",
+        "creditos": 5,
+        "prerrequisitos": [
+          "MAT1610"
+        ]
+      }
+    ],
+    "secciones": [
+      {
+        "id_seccion": "MAT1610-1",
+        "codigo_curso": "MAT1610",
+        "capacidad": 7,
+        "horarios": [
+          {
+            "dia": "viernes",
+            "hora_inicio": 10,
+            "hora_fin": 12
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "ICE1514-1",
+        "codigo_curso": "ICE1514",
+        "capacidad": 9,
+        "horarios": [
+          {
+            "dia": "martes",
+            "hora_inicio": 8,
+            "hora_fin": 10
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "ICE1514-2",
+        "codigo_curso": "ICE1514",
+        "capacidad": 9,
+        "horarios": [
+          {
+            "dia": "viernes",
+            "hora_inicio": 10,
+            "hora_fin": 12
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "IIC1103-1",
+        "codigo_curso": "IIC1103",
+        "capacidad": 7,
+        "horarios": [
+          {
+            "dia": "jueves",
+            "hora_inicio": 14,
+            "hora_fin": 16
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "IIC1103-2",
+        "codigo_curso": "IIC1103",
+        "capacidad": 9,
+        "horarios": [
+          {
+            "dia": "viernes",
+            "hora_inicio": 10,
+            "hora_fin": 12
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "IIC2233-1",
+        "codigo_curso": "IIC2233",
+        "capacidad": 5,
+        "horarios": [
+          {
+            "dia": "lunes",
+            "hora_inicio": 8,
+            "hora_fin": 10
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "IIC2133-1",
+        "codigo_curso": "IIC2133",
+        "capacidad": 6,
+        "horarios": [
+          {
+            "dia": "viernes",
+            "hora_inicio": 10,
+            "hora_fin": 12
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "EYP1103-1",
+        "codigo_curso": "EYP1103",
+        "capacidad": 6,
+        "horarios": [
+          {
+            "dia": "jueves",
+            "hora_inicio": 8,
+            "hora_fin": 10
+          }
+        ],
+        "profesor_id": null
+      },
+      {
+        "id_seccion": "EYP1103-2",
+        "codigo_curso": "EYP1103",
+        "capacidad": 9,
+        "horarios": [
+          {
+            "dia": "martes",
+            "hora_inicio": 8,
+            "hora_fin": 10
+          }
+        ],
+        "profesor_id": null
+      }
+    ]
+  },
+  "eventos": [
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P006",
+      "seccion_id": "EYP1103-1"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P006",
+      "seccion_id": "EYP1103-2"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P004",
+      "seccion_id": "ICE1514-1"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P001",
+      "seccion_id": "ICE1514-2"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P001",
+      "seccion_id": "IIC1103-1"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P006",
+      "seccion_id": "IIC1103-2"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P002",
+      "seccion_id": "IIC2133-1"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P002",
+      "seccion_id": "IIC2233-1"
+    },
+    {
+      "tipo": "asignar_profesor",
+      "profesor_id": "P004",
+      "seccion_id": "MAT1610-1"
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0002",
+        "estudiante_id": "E004",
+        "seccion_id": "MAT1610-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0003",
+        "estudiante_id": "E003",
+        "seccion_id": "IIC1103-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0004",
+        "estudiante_id": "E009",
+        "seccion_id": "EYP1103-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0005",
+        "estudiante_id": "E021",
+        "seccion_id": "IIC1103-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0007",
+        "estudiante_id": "E020",
+        "seccion_id": "ICE1514-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0008",
+        "estudiante_id": "E004",
+        "seccion_id": "MAT1610-1",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0009",
+        "estudiante_id": "E021",
+        "seccion_id": "IIC1103-2",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0011",
+        "estudiante_id": "E020",
+        "seccion_id": "ICE1514-1",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0012",
+        "estudiante_id": "E012",
+        "seccion_id": "IIC1103-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0013",
+        "estudiante_id": "E003",
+        "seccion_id": "EYP1103-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0015",
+        "estudiante_id": "E018",
+        "seccion_id": "EYP1103-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0016",
+        "estudiante_id": "E016",
+        "seccion_id": "IIC2133-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0017",
+        "estudiante_id": "E002",
+        "seccion_id": "IIC2233-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0019",
+        "estudiante_id": "E002",
+        "seccion_id": "MAT1610-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0020",
+        "estudiante_id": "E009",
+        "seccion_id": "EYP1103-1",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0021",
+        "estudiante_id": "E017",
+        "seccion_id": "ICE1514-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0022",
+        "estudiante_id": "E014",
+        "seccion_id": "IIC1103-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0023",
+        "estudiante_id": "E014",
+        "seccion_id": "IIC2233-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0024",
+        "estudiante_id": "E006",
+        "seccion_id": "MAT1610-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0025",
+        "estudiante_id": "E002",
+        "seccion_id": "MAT1610-1",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0030",
+        "estudiante_id": "E018",
+        "seccion_id": "IIC1103-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0033",
+        "estudiante_id": "E018",
+        "seccion_id": "IIC1103-2",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0034",
+        "estudiante_id": "E004",
+        "seccion_id": "EYP1103-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0036",
+        "estudiante_id": "E006",
+        "seccion_id": "MAT1610-1",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0037",
+        "estudiante_id": "E012",
+        "seccion_id": "IIC1103-1",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0039",
+        "estudiante_id": "E012",
+        "seccion_id": "IIC2133-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0040",
+        "estudiante_id": "E015",
+        "seccion_id": "ICE1514-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0041",
+        "estudiante_id": "E012",
+        "seccion_id": "EYP1103-2",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0042",
+        "estudiante_id": "E014",
+        "seccion_id": "IIC2233-1",
+        "tipo": "cancelar"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0044",
+        "estudiante_id": "E020",
+        "seccion_id": "IIC2233-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0045",
+        "estudiante_id": "E010",
+        "seccion_id": "ICE1514-1",
+        "tipo": "inscribir"
+      }
+    },
+    {
+      "tipo": "solicitud",
+      "solicitud": {
+        "id_solicitud": "S0047",
+        "estudiante_id": "E013",
+        "seccion_id": "EYP1103-1",
+        "tipo": "inscribir"
+      }
+    }
+  ]
+}
