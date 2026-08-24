@@ -31,7 +31,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 13/08 | Ayudantía 1 |
 | Cátedra     | Lunes 17/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides/02%20-%20Exploración%2C%20limpieza%20y%20análisis%20de%20datos%20con%20Pandas.pdf) - [Notebooks 1 y 2](Material%20de%20clases/Capítulo%201/Notebooks/) - [Ejercicios 2, 3 y 4](Material%20de%20clases/Capítulo%201/Ejercicios) - [Ticket](https://forms.gle/trQ6TzsHhe1V49Xg7) |
 | Ayudantía   | Jueves 20/08 | Ayudantía 2 |
-| Laboratorio | Lunes 24/08  | Enunciado L1 |
+| Laboratorio | Lunes 24/08  | [Enunciado L1](Laboratorios/L1/L1.pdf) - [Datos L1](Laboratorios/L1) |
 </details>
 
 
