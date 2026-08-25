@@ -22,7 +22,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 ## Calendario 
 
-<details open>
+<details>
 <summary>Capítulo 1: Herramientas fundamentales</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -32,6 +32,20 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 17/08  | [Slides](Material%20de%20clases/Capítulo%201/Slides/02%20-%20Exploración%2C%20limpieza%20y%20análisis%20de%20datos%20con%20Pandas.pdf) - [Notebooks 1 y 2](Material%20de%20clases/Capítulo%201/Notebooks/) - [Ejercicios 2, 3 y 4](Material%20de%20clases/Capítulo%201/Ejercicios) - [Ticket](https://forms.gle/trQ6TzsHhe1V49Xg7) |
 | Ayudantía   | Jueves 20/08 | Ayudantía 2 |
 | Laboratorio | Lunes 24/08  | [Enunciado L1](Laboratorios/L1/L1.pdf) - [Datos L1](Laboratorios/L1) |
+</details>
+
+<details open>
+<summary>Capítulo 2: Modelos Predictivos basados en Machine Learning </summary>
+   
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 31/08  | Slides - [Notebook](Material%20de%20clases/Capítulo%202/Notebooks/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.ipynb)  - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - Ticket |
+| Ayudantía   | Jueves 03/09 | Ayudantía 3 |
+| Cátedra     | Lunes 07/09  | Slides - Notebook - Ejercicios - Ticket |
+| Ayudantía   | Jueves 10/09 | Ayudantía 4 |
+| Cátedra     | Lunes 21/09  | Slides - Notebook - Ejercicios - Ticket |
+| Ayudantía   | Jueves 24/09 | Ayudantía 5 |
+| Laboratorio | Lunes 28/09  | Enunciado L2 - Datos|
 </details>
 
 
