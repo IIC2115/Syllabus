@@ -39,9 +39,9 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
    
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 31/08  | [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.pdf) - [Notebook](Material%20de%20clases/Capítulo%202/Notebooks/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.ipynb)  - [Ejercicios](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - [Ticket](https://forms.gle/PmzKUBzKssmWaJ8B9) |
+| Cátedra     | Lunes 31/08  | [Slides](Material%20de%20clases/Capítulo%202/Slides/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.pdf) - [Notebook](Material%20de%20clases/Capítulo%202/Notebooks/01%20-%20Modelos%20predictivos%20de%20aprendizaje%20supervisado.ipynb)  - [Ejercicios 1,2 y 3](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - [Ticket](https://forms.gle/PmzKUBzKssmWaJ8B9) |
 | Ayudantía   | Jueves 03/09 | Ayudantía 3 |
-| Cátedra     | Lunes 07/09  | Slides - Notebook - Ejercicios - Ticket |
+| Cátedra     | Lunes 07/09  | Slides - [Notebook](Material%20de%20clases/Capítulo%202/Notebooks/02%20-%20Modelos%20predicticos%20de%20aprendizaje%20no%20supervisado.ipynb) - [Ejercicios 4 y 5](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - Ticket |
 | Ayudantía   | Jueves 10/09 | Ayudantía 4 |
 | Cátedra     | Lunes 21/09  | Slides - Notebook - Ejercicios - Ticket |
 | Ayudantía   | Jueves 24/09 | Ayudantía 5 |
