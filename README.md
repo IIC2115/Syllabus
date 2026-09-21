@@ -43,7 +43,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 03/09 | Ayudantía 3 |
 | Cátedra     | Lunes 07/09  | [Slides](Material%20de%20clases/Capítulo%202/Slides/02%20-%20Modelos%20predictivos%20de%20aprendizaje%20no%20supervisado.pdf) - [Notebook](Material%20de%20clases/Capítulo%202/Notebooks/02%20-%20Modelos%20predicticos%20de%20aprendizaje%20no%20supervisado.ipynb) - [Ejercicios 4, 5 y 6](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios) - [Ticket](https://forms.gle/zroRp2K3qxax7d599) |
 | Ayudantía   | Jueves 10/09 | Ayudantía 4 |
-| Cátedra     | Lunes 21/09  | Slides - Notebook - Ejercicios - Ticket |
+| Cátedra     | Lunes 21/09  | [Ejercicio 7](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios/E7.pdf) - [Datos](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios/E7_datos.csv) - [Ticket](https://forms.gle/cetWTMyBbZD9zRYe6) |
 | Ayudantía   | Jueves 24/09 | Ayudantía 5 |
 | Laboratorio | Lunes 28/09  | Enunciado L2 - Datos|
 </details>
