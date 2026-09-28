@@ -45,7 +45,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 10/09 | Ayudantía 4 |
 | Cátedra     | Lunes 21/09  | [Ejercicio 7](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios/E7.pdf) - [Datos](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios/E7_datos.csv) - [Ticket](https://forms.gle/cetWTMyBbZD9zRYe6) |
 | Ayudantía   | Jueves 24/09 | Ayudantía 5 |
-| Laboratorio | Lunes 28/09  | Enunciado L2 - Datos|
+| Laboratorio | Lunes 28/09  | [Enunciado L2](Laboratorios/L2/L2.pdf) - [Datos L2](Laboratorios/L2/L2_datos.zip) |
 </details>
 
 
