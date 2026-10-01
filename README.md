@@ -34,7 +34,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 24/08  | [Enunciado L1](Laboratorios/L1/L1.pdf) - [Datos L1](Laboratorios/L1) - [Recorrección L1](https://forms.gle/MhA3UfTpzkkZRZ2M7)|
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 2: Modelos Predictivos basados en Machine Learning </summary>
    
 | Instancia   | Fecha        | Recursos |
@@ -46,6 +46,16 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Cátedra     | Lunes 21/09  | [Ejercicio 7](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios/E7.pdf) - [Datos](Material%20de%20clases/Cap%C3%ADtulo%202/Ejercicios/E7_datos.csv) - [Ticket](https://forms.gle/cetWTMyBbZD9zRYe6) |
 | Ayudantía   | Jueves 24/09 | Ayudantía 5 |
 | Laboratorio | Lunes 28/09  | [Enunciado L2](Laboratorios/L2/L2.pdf) - [Datos L2](Laboratorios/L2/L2_datos.zip) |
+</details>
+
+<details open>
+<summary>Capítulo 4: Análisis de datos geoespaciales y redes</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 05/10  | Slides - [Notebook](Material%20de%20clases/Capítulo%203/Notebooks) - Ejercicios - Ticket |
+| Ayudantía   | Jueves 08/10 | Ayudantía 6 |
+
 </details>
 
 
