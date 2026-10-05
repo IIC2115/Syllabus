@@ -53,7 +53,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 05/10  | [Slides](Material%20de%20clases/Capítulo%203/Slides/01%20-%20Análisis%20de%20datos%20geoespaciales.pdf) - [Notebooks 1 y 2](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicios 1 y 2](Material%20de%20clases/Capítulo%203/Ejercicios) - Ticket |
+| Cátedra     | Lunes 05/10  | [Slides](Material%20de%20clases/Capítulo%203/Slides/) - [Notebooks](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicios 1 y 2](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/8Ztbu8BMKcjUz6qa7) |
 | Ayudantía   | Jueves 08/10 | Ayudantía 6 |
 
 </details>
