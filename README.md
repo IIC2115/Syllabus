@@ -49,7 +49,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 </details>
 
 <details open>
-<summary>Capítulo 4: Análisis de datos geoespaciales y redes</summary>
+<summary>Capítulo 3: Análisis de datos geoespaciales y redes</summary>
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
