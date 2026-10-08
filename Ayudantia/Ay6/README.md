@@ -1,3 +1,3 @@
 ### Link 
-- E1: Está subiéndose :D
+- E1: https://youtu.be/TYKvHi3N-CE
 - E2: Se subirá mañana jueves en la tarde-noche
