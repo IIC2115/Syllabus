@@ -57,6 +57,8 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 08/10 | Ayudantía 6 |
 | Cátedra     | Lunes 12/10 (feriado) | [Cápsulas 1 y 2](Material%20de%20clases/Cap%C3%ADtulo%203/Notebooks/link_capsulas.md) - [Notebooks cápsulas](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicios 3 y 4](Material%20de%20clases/Capítulo%203/Ejercicios)| - |
 | Ayudantía   | Jueves 15/10 | Ayudantía 7 |
+| Cátedra     | Lunes 19/10  |  [Notebook Ejercicio integrador ](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicio 5 ](Material%20de%20clases/Capítulo%203/Ejercicios)| - |
+| Ayudantía   | Jueves 22/10 | Ayudantía 8 |
 </details>
 
 
