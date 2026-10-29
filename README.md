@@ -68,7 +68,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | :-:         | :-:          | :-:      |
 | Cátedra     | Lunes 02/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Almacenamiento%20y%20consulta%20de%20datos.pdf) - [Notebooks 1, 2 y 3](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios]() - [Ticket]() |
 | Ayudantía   | Jueves 05/11 | Ayudantía 9 |
-| Cátedra     | Lunes 09/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/02%20-%20Extraccion%20de%20datos.pdf) - [Notebooks](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios]() -[Ticket](Material%20de%20clases/Capítulo%203/Ejercicios)| - |
+| Cátedra     | Lunes 09/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/02%20-%20Extraccion%20de%20datos.pdf) - [Notebooks](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios]() -[Ticket]()| - |
 | Ayudantía   | Jueves 12/11 | Ayudantía 10 |
 | Cátedra     | Lunes 16/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/03%20-%20Visualizacion%20de%20datos%20mediante%20dashboards.pdf) -[Notebook](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicio]() - [Ticket]() |
 | Ayudantía   | Jueves 19/11 | Ayudantía 11 |
