@@ -48,7 +48,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Laboratorio | Lunes 28/09  | [Enunciado L2](Laboratorios/L2/L2.pdf) - [Datos L2](Laboratorios/L2/L2_datos.zip) - [Recorrección L2](https://forms.gle/zuJQ7JbrCvCjuDfw7)|
 </details>
 
-<details open>
+<details>
 <summary>Capítulo 3: Análisis de datos geoespaciales y redes</summary>
 
 | Instancia   | Fecha        | Recursos |
@@ -66,7 +66,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 
 | Instancia   | Fecha        | Recursos |
 | :-:         | :-:          | :-:      |
-| Cátedra     | Lunes 02/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Almacenamiento%20y%20consulta%20de%20datos.pdf) - [Notebooks 1, 2 y 3](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios]() - [Ticket]() |
+| Cátedra     | Lunes 02/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/01%20-%20Almacenamiento%20y%20consulta%20de%20datos.pdf) - [Notebooks 1, 2, 3 y Resumen SQL](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios E1 y E2](Material%20de%20clases/Cap%C3%ADtulo%204/Ejercicios) - [Ticket]() |
 | Ayudantía   | Jueves 05/11 | Ayudantía 9 |
 | Cátedra     | Lunes 09/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/02%20-%20Extraccion%20de%20datos.pdf) - [Notebooks](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicios]() -[Ticket]()| - |
 | Ayudantía   | Jueves 12/11 | Ayudantía 10 |
