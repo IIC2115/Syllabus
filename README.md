@@ -59,6 +59,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 15/10 | Ayudantía 7 |
 | Cátedra     | Lunes 19/10  |  [Notebook Ejercicio integrador ](Material%20de%20clases/Capítulo%203/Notebooks) - [Ejercicio 5 ](Material%20de%20clases/Capítulo%203/Ejercicios) - [Ticket](https://forms.gle/uKGie9w8j8q11Af89) |
 | Ayudantía   | Jueves 22/10 | Ayudantía 8 |
+| Laboratorio | Lunes 26/10  | [Recorrección L3](https://forms.gle/91qVX3DicVs3xvYS7)|
 </details>
 
 <details open>
