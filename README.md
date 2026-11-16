@@ -71,9 +71,11 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 05/11 | Ayudantía 9 |
 | Cátedra     | Lunes 09/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/02%20-%20Extraccion%20de%20datos.pdf) - [Notebooks]([Material%20de%20clases/Capítulo%204/Notebooks](Material%20de%20clases/Cap%C3%ADtulo%204/Notebooks/C4_Resumen_WebScraping_APIs.ipynb)) - [Ejercicio 3](Material%20de%20clases/Cap%C3%ADtulo%204/Ejercicios) -[Ticket](https://forms.gle/63kVhHx2iXCSmgPc9)| - |
 | Ayudantía   | Jueves 12/11 | Ayudantía 10 |
-| Cátedra     | Lunes 16/11  | [Slides](Material%20de%20clases/Capítulo%204/Slides/03%20-%20Visualizacion%20de%20datos%20mediante%20dashboards.pdf) -[Notebook](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicio]() - [Ticket Encuesta Docente](https://forms.gle/3yqjYUGsTx6nQby17) - [Ticket Ejercicio 4]() |
+| Cátedra     | Lunes 16/11  | [Slides](Material%20de%20clases/Cap%C3%ADtulo%204/Slides/03-%20Visualizacion%20de%20datos%20mediante%20dashboards.pdf) -[Notebook](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicio]() - [Ticket Encuesta Docente](https://forms.gle/3yqjYUGsTx6nQby17) - [Ticket Ejercicio 4]() |
 | Ayudantía   | Jueves 19/11 | Ayudantía 11 |
 </details>
+
+
 
 
 ## Recorrecciones
