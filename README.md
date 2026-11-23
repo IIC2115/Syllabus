@@ -73,7 +73,7 @@ Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.c
 | Ayudantía   | Jueves 12/11 | Ayudantía 10 |
 | Cátedra     | Lunes 16/11  | [Slides](Material%20de%20clases/Cap%C3%ADtulo%204/Slides/03-%20Visualizacion%20de%20datos%20mediante%20dashboards.pdf) -[Notebook](Material%20de%20clases/Capítulo%204/Notebooks) - [Ejercicio 4](Material%20de%20clases/Capítulo%204/Ejercicios/C4E4.pdf) - [Ticket Encuesta Docente](https://forms.gle/3yqjYUGsTx6nQby17) - [Ticket Ejercicio 4](https://forms.gle/VajMrFx58qoofQYg8) |
 | Ayudantía   | Jueves 19/11 | Ayudantía 11 |
-| Laboratorio | Lunes 23/11  | [L4]()|
+| Laboratorio | Lunes 23/11  | [L4](Laboratorios/L4)|
 </details>
 
 
